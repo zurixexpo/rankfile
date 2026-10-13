@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "question": "Identify the part of the sentence that contains an error: 'The list of items required for the school function are lying on the principal's desk.'",
+    "options": {
+      "A": "The list of items",
+      "B": "required for the school function",
+      "C": "are lying on the principal's desk",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "are lying on the principal's desk",
+      "correctPart": "is lying on the principal's desk",
+      "explanation": [
+        "Rule 1: The main subject of the sentence is 'list', which is singular.",
+        "Rule 2: The phrase 'of items required for the school function' gives additional information and does not change the number of the subject.",
+        "Application: Since 'list' is singular, the verb 'are' must be changed to 'is'.",
+        "Correct sentence: The list of items required for the school function is lying on the principal's desk."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Identify the part of the sentence that contains an error: 'Neither the manager nor the employees was willing to accept responsibility for the delay in completing the project.'",
+    "options": {
+      "A": "Neither the manager",
+      "B": "nor the employees",
+      "C": "was willing to accept responsibility",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "was willing to accept responsibility",
+      "correctPart": "were willing to accept responsibility",
+      "explanation": [
+        "Rule 1: With 'neither...nor', the verb generally agrees with the subject nearer to it.",
+        "Rule 2: In this sentence, the nearer subject is 'employees', which is plural.",
+        "Application: Therefore, the singular verb 'was' must be changed to the plural verb 'were'.",
+        "Correct sentence: Neither the manager nor the employees were willing to accept responsibility for the delay in completing the project."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Identify the part of the sentence that contains an error: 'Every student who participated in the annual sports competition have received a certificate from the school.'",
+    "options": {
+      "A": "Every student",
+      "B": "who participated in the annual sports competition",
+      "C": "have received a certificate from the school",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "have received a certificate from the school",
+      "correctPart": "has received a certificate from the school",
+      "explanation": [
+        "Rule 1: 'Every' takes a singular noun and requires a singular verb.",
+        "Rule 2: The subject is 'Every student', not the plural noun implied by the group of participants.",
+        "Application: The verb 'have' must be changed to 'has'.",
+        "Correct sentence: Every student who participated in the annual sports competition has received a certificate from the school."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "Identify the part of the sentence that contains an error: 'The quality of the products sold by these online shopping platforms have improved considerably over the past few years.'",
+    "options": {
+      "A": "The quality of the products",
+      "B": "sold by these online shopping platforms",
+      "C": "have improved considerably",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "have improved considerably",
+      "correctPart": "has improved considerably",
+      "explanation": [
+        "Rule 1: The subject of the sentence is 'quality', which is singular.",
+        "Rule 2: The plural noun 'products' appears in a phrase beginning with 'of' and does not control the verb.",
+        "Application: The singular subject 'quality' requires 'has improved'.",
+        "Correct sentence: The quality of the products sold by these online shopping platforms has improved considerably over the past few years."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "Identify the part of the sentence that contains an error: 'The teacher, along with several experienced volunteers, are organising a special programme for underprivileged children in the village.'",
+    "options": {
+      "A": "The teacher",
+      "B": "along with several experienced volunteers",
+      "C": "are organising a special programme",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "are organising a special programme",
+      "correctPart": "is organising a special programme",
+      "explanation": [
+        "Rule 1: Expressions such as 'along with', 'as well as' and 'together with' do not make a singular subject plural.",
+        "Rule 2: The main subject is 'teacher', which is singular.",
+        "Application: The verb 'are' must be replaced with 'is'.",
+        "Correct sentence: The teacher, along with several experienced volunteers, is organising a special programme for underprivileged children in the village."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Identify the part of the sentence that contains an error: 'A number of candidates appearing for the banking examination has requested additional time to complete the application process.'",
+    "options": {
+      "A": "A number of candidates",
+      "B": "appearing for the banking examination",
+      "C": "has requested additional time",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "has requested additional time",
+      "correctPart": "have requested additional time",
+      "explanation": [
+        "Rule 1: 'A number of' means several and takes a plural verb.",
+        "Rule 2: The subject 'candidates' is plural, and the expression 'a number of candidates' refers to multiple people.",
+        "Application: The verb 'has' must be changed to 'have'.",
+        "Correct sentence: A number of candidates appearing for the banking examination have requested additional time to complete the application process."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "Identify the part of the sentence that contains an error: 'The news about the government's new financial assistance scheme have created considerable interest among small business owners.'",
+    "options": {
+      "A": "The news about",
+      "B": "the government's new financial assistance scheme",
+      "C": "have created considerable interest",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "have created considerable interest",
+      "correctPart": "has created considerable interest",
+      "explanation": [
+        "Rule 1: Some nouns ending in 's', such as 'news', are singular in meaning.",
+        "Rule 2: The main subject is 'news', not 'business owners' or any other noun later in the sentence.",
+        "Application: The singular subject 'news' requires 'has created'.",
+        "Correct sentence: The news about the government's new financial assistance scheme has created considerable interest among small business owners."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "Identify the part of the sentence that contains an error: 'Either the principal or the senior teachers is expected to address the parents during the annual school meeting.'",
+    "options": {
+      "A": "Either the principal",
+      "B": "or the senior teachers",
+      "C": "is expected to address the parents",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "is expected to address the parents",
+      "correctPart": "are expected to address the parents",
+      "explanation": [
+        "Rule 1: With 'either...or', the verb generally agrees with the subject nearer to it.",
+        "Rule 2: The nearer subject is 'senior teachers', which is plural.",
+        "Application: The verb 'is' must be changed to 'are'.",
+        "Correct sentence: Either the principal or the senior teachers are expected to address the parents during the annual school meeting."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "Identify the part of the sentence that contains an error: 'One of the most important responsibilities of bank employees are to protect customers from online financial fraud.'",
+    "options": {
+      "A": "One of the most important responsibilities",
+      "B": "of bank employees",
+      "C": "are to protect customers",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "are to protect customers",
+      "correctPart": "is to protect customers",
+      "explanation": [
+        "Rule 1: In the construction 'one of the...', the main subject is 'one', which is singular.",
+        "Rule 2: The plural noun 'responsibilities' does not make the subject plural.",
+        "Application: The singular subject 'one' requires 'is'.",
+        "Correct sentence: One of the most important responsibilities of bank employees is to protect customers from online financial fraud."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Identify the part of the sentence that contains an error: 'The players who have practised regularly throughout the season performs better during important matches.'",
+    "options": {
+      "A": "The players",
+      "B": "who have practised regularly",
+      "C": "throughout the season performs better",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "throughout the season performs better",
+      "correctPart": "throughout the season perform better",
+      "explanation": [
+        "Rule 1: A plural subject takes a plural verb in the simple present tense.",
+        "Rule 2: The subject is 'players', which is plural. The relative clause 'who have practised regularly' describes the players.",
+        "Application: The verb 'performs' must be changed to 'perform'.",
+        "Correct sentence: The players who have practised regularly throughout the season perform better during important matches."
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "question": "Identify the part of the sentence that contains an error: 'Neither of the two proposals submitted by the committee are suitable for solving the financial problems faced by the organisation.'",
+    "options": {
+      "A": "Neither of the two proposals",
+      "B": "submitted by the committee",
+      "C": "are suitable for solving the financial problems",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "are suitable for solving the financial problems",
+      "correctPart": "is suitable for solving the financial problems",
+      "explanation": [
+        "Rule 1: 'Neither' is generally treated as singular in formal subject-verb agreement questions.",
+        "Rule 2: The phrase 'of the two proposals' does not change the singular subject 'neither'.",
+        "Application: The verb 'are' must be changed to 'is'.",
+        "Correct sentence: Neither of the two proposals submitted by the committee is suitable for solving the financial problems faced by the organisation."
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "question": "Identify the part of the sentence that contains an error: 'The manager and the accountant who work in the same branch has prepared a detailed report on the company's annual expenses.'",
+    "options": {
+      "A": "The manager and the accountant",
+      "B": "who work in the same branch",
+      "C": "has prepared a detailed report",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "has prepared a detailed report",
+      "correctPart": "have prepared a detailed report",
+      "explanation": [
+        "Rule 1: Two singular subjects joined by 'and' generally take a plural verb.",
+        "Rule 2: 'The manager and the accountant' refers to two people.",
+        "Application: The plural verb 'have prepared' is required.",
+        "Correct sentence: The manager and the accountant who work in the same branch have prepared a detailed report on the company's annual expenses."
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "question": "Identify the part of the sentence that contains an error: 'There is several reasons why many young people prefer online courses over traditional classroom-based learning.'",
+    "options": {
+      "A": "There is",
+      "B": "several reasons",
+      "C": "why many young people prefer online courses",
+      "D": "No error"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "There is",
+      "correctPart": "There are",
+      "explanation": [
+        "Rule 1: In sentences beginning with 'there', the verb agrees with the actual subject that follows.",
+        "Rule 2: The subject is 'several reasons', which is plural.",
+        "Application: The singular verb 'is' must be changed to 'are'.",
+        "Correct sentence: There are several reasons why many young people prefer online courses over traditional classroom-based learning."
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "question": "Identify the part of the sentence that contains an error: 'The committee members, after discussing the issue for several hours, has decided to recommend changes to the existing recruitment policy.'",
+    "options": {
+      "A": "The committee members",
+      "B": "after discussing the issue for several hours",
+      "C": "has decided to recommend changes",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "has decided to recommend changes",
+      "correctPart": "have decided to recommend changes",
+      "explanation": [
+        "Rule 1: A plural subject takes a plural verb.",
+        "Rule 2: The subject is 'committee members', which refers to multiple people. The intervening phrase does not change the subject.",
+        "Application: The verb 'has' must be changed to 'have'.",
+        "Correct sentence: The committee members, after discussing the issue for several hours, have decided to recommend changes to the existing recruitment policy."
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "question": "Identify the part of the sentence that contains an error: 'Each of the applications received from eligible candidates were carefully checked before the final list of selected applicants was published.'",
+    "options": {
+      "A": "Each of the applications",
+      "B": "received from eligible candidates",
+      "C": "were carefully checked",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "were carefully checked",
+      "correctPart": "was carefully checked",
+      "explanation": [
+        "Rule 1: 'Each' is singular and takes a singular verb.",
+        "Rule 2: The plural noun 'applications' follows 'of' but does not control the verb.",
+        "Application: The singular verb 'was' must replace 'were'.",
+        "Correct sentence: Each of the applications received from eligible candidates was carefully checked before the final list of selected applicants was published."
+      ]
+    }
+  }
+]
