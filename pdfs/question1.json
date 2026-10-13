@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "question": "Identify the part of the sentence that contains an error: 'She do not like to play cricket in the evening.'",
+    "options": {
+      "A": "She do not",
+      "B": "like to play",
+      "C": "cricket in the evening",
+      "D": "No error"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "She do not",
+      "correctPart": "She does not",
+      "explanation": [
+        "Rule 1: With third-person singular subjects such as he, she, and it, use 'does' instead of 'do' in the simple present tense.",
+        "Rule 2: When 'does' is used as an auxiliary verb, the main verb remains in its base form.",
+        "Application: 'She' is a third-person singular subject, so 'do not' must be replaced with 'does not'.",
+        "Correct sentence: She does not like to play cricket in the evening."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Identify the part of the sentence that contains an error: 'Each of the students have submitted their assignment.'",
+    "options": {
+      "A": "Each of the students",
+      "B": "have submitted",
+      "C": "their assignment",
+      "D": "No error"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "have submitted",
+      "correctPart": "has submitted",
+      "explanation": [
+        "Rule 1: 'Each' is a singular distributive pronoun and takes a singular verb.",
+        "Rule 2: The noun following 'of' does not determine the verb's number. Here, 'students' is plural, but the subject is 'Each'.",
+        "Application: Since 'Each' is singular, 'have submitted' must be changed to 'has submitted'.",
+        "Correct sentence: Each of the students has submitted their assignment."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Identify the part of the sentence that contains an error: 'Neither the manager nor the employees was present at the meeting.'",
+    "options": {
+      "A": "Neither the manager",
+      "B": "nor the employees",
+      "C": "was present at the meeting",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "was present at the meeting",
+      "correctPart": "were present at the meeting",
+      "explanation": [
+        "Rule 1: With 'neither...nor', the verb generally agrees with the subject nearest to it.",
+        "Rule 2: In this sentence, the nearest subject to the verb is 'employees', which is plural.",
+        "Application: The plural subject 'employees' requires 'were' instead of 'was'.",
+        "Correct sentence: Neither the manager nor the employees were present at the meeting."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "Identify the part of the sentence that contains an error: 'He is senior than me in the organisation.'",
+    "options": {
+      "A": "He is senior",
+      "B": "than me",
+      "C": "in the organisation",
+      "D": "No error"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "than me",
+      "correctPart": "to me",
+      "explanation": [
+        "Rule 1: Certain adjectives, including senior, junior, superior, inferior, and prior, are followed by 'to' rather than 'than'.",
+        "Rule 2: Although many comparative adjectives take 'than', these particular adjectives follow a different grammatical pattern.",
+        "Application: 'Senior than me' is incorrect; the appropriate expression is 'senior to me'.",
+        "Correct sentence: He is senior to me in the organisation."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "Identify the part of the sentence that contains an error: 'If I would have known about the meeting, I would have attended it.'",
+    "options": {
+      "A": "If I would have known",
+      "B": "about the meeting",
+      "C": "I would have attended it",
+      "D": "No error"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "If I would have known",
+      "correctPart": "If I had known",
+      "explanation": [
+        "Rule 1: In the standard third conditional, the if-clause uses the past perfect tense.",
+        "Rule 2: The main clause generally uses 'would have' followed by the past participle to describe the imagined result.",
+        "Application: 'Would have known' should be replaced with 'had known' in the if-clause.",
+        "Correct sentence: If I had known about the meeting, I would have attended it."
+      ]
+    }
+  }
+]
