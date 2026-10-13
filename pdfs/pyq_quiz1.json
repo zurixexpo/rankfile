@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "question": "The coach hoped that in his absence the team would _____ with the practice.",
+    "options": {
+      "A": "carried by",
+      "B": "carry into",
+      "C": "carry on",
+      "D": "carry in"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "carry on",
+      "explanation": [
+        "Rule 1: 'Carry on' is a phrasal verb meaning to continue doing an activity.",
+        "Rule 2: Modal verbs like 'would' are followed by the base form of the verb.",
+        "Application: The sentence context requires the meaning 'continue', so 'carry on' correctly follows 'would'.",
+        "Correct sentence: The coach hoped that in his absence the team would carry on with the practice."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "The treasurer and secretary _____ left from the bank.",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "is",
+      "D": "are"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "has",
+      "explanation": [
+        "Rule 1: When two titles joined by 'and' refer to the same single individual, the article 'the' is used only before the first title.",
+        "Rule 2: Since 'the treasurer and secretary' refers to one person holding both roles, it takes a singular verb.",
+        "Application: The present perfect auxiliary verb for a singular subject followed by a past participle ('left') is 'has'.",
+        "Correct sentence: The treasurer and secretary has left from the bank."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "The children cheers loudly when their captain scored the winning goal.",
+    "options": {
+      "A": "The children cheers loudly",
+      "B": "when their captain",
+      "C": "scored the winning goal",
+      "D": "No error"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "The children cheers loudly",
+      "correctPart": "The children cheered loudly",
+      "explanation": [
+        "Rule 1: Sequence of tenses requires consistency when actions occur in the past (indicated by 'scored').",
+        "Rule 2: 'Children' is a plural noun, so 'cheers' (singular present tense) is grammatically incorrect.",
+        "Application: Change 'cheers' to the simple past form 'cheered' to match the past main clause.",
+        "Correct sentence: The children cheered loudly when their captain scored the winning goal."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "The school _____ (is) organize an educational tour to Kashmir in the summer break.",
+    "options": {
+      "A": "is organized",
+      "B": "is organizing",
+      "C": "has organized",
+      "D": "was organized"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "(is) organize",
+      "correctPart": "is organizing",
+      "explanation": [
+        "Rule 1: Future planned actions or arrangements can be expressed using the present continuous tense (is/am/are + verb-ing).",
+        "Rule 2: The subject 'school' is singular, so it takes 'is'.",
+        "Application: Change the base verb 'organize' after 'is' to the continuous participle form 'organizing'.",
+        "Correct sentence: The school is organizing an educational tour to Kashmir in the summer break."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "The orchestra performed on the central theatre in front of a huge audience.",
+    "options": {
+      "A": "The orchestra performed",
+      "B": "on the central theatre",
+      "C": "in front of a huge audience",
+      "D": "No error"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "on the central theatre",
+      "correctPart": "at the central theatre",
+      "explanation": [
+        "Rule 1: The preposition 'at' is used to denote specific locations or venues like theaters, halls, or buildings.",
+        "Rule 2: Preposition 'on' is used for physical surfaces, not venue locations.",
+        "Application: Replace 'on' with 'at' to refer correctly to the location where the performance took place.",
+        "Correct sentence: The orchestra performed at the central theatre in front of a huge audience."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Schools _____ instruct students to wear full sleeved shirts during monsoon time.",
+    "options": {
+      "A": "should",
+      "B": "ought",
+      "C": "might",
+      "D": "could"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "should",
+      "explanation": [
+        "Rule 1: 'Should' is a modal verb used to give advice, recommendations, or express advisability.",
+        "Rule 2: 'Ought' requires 'to' following it ('ought to instruct'), making choice B grammatically incomplete here.",
+        "Application: Since advising health safety during monsoon is a strong recommendation, 'should' is the correct choice.",
+        "Correct sentence: Schools should instruct students to wear full sleeved shirts during monsoon time."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "The evil of begging is very common into our country.",
+    "options": {
+      "A": "The evil of begging",
+      "B": "is very common",
+      "C": "into our country",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "into our country",
+      "correctPart": "in our country",
+      "explanation": [
+        "Rule 1: The adjective 'common' takes the preposition 'in' when referring to prevalence within a region or country.",
+        "Rule 2: 'Into' denotes movement or entry from the outside to the inside, which does not fit the static state of prevalence.",
+        "Application: Replace 'into' with 'in'.",
+        "Correct sentence: The evil of begging is very common in our country."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "After many months of research, the scientists _____ the invisible barrier.",
+    "options": {
+      "A": "broke through",
+      "B": "broke down",
+      "C": "broke in",
+      "D": "broke away"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "broke through",
+      "explanation": [
+        "Rule 1: 'Break through' means to overcome an obstacle or make a major discovery/advance.",
+        " 'Break down' means to fail or collapse; 'Break in' means to enter forcibly; 'Break away' means to escape.",
+        "Application: In the context of scientific research overcoming an obstacle or barrier, 'broke through' is the accurate phrasal verb.",
+        "Correct sentence: After many months of research, the scientists broke through the invisible barrier."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "Don’t you have _____ friends in the school ?",
+    "options": {
+      "A": "much",
+      "B": "any",
+      "C": "some",
+      "D": "little"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "any",
+      "explanation": [
+        "Rule 1: The determiner 'any' is used in negative statements and general interrogative (questioning) sentences with countable plural nouns.",
+        "Rule 2: 'Much' and 'little' are used only with uncountable nouns, whereas 'friends' is a countable plural noun.",
+        "Application: Since the sentence is an interrogative sentence asking about countable entities, 'any' is required.",
+        "Correct sentence: Don’t you have any friends in the school?"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "The captain of the team was accused with not encouraging the team members.",
+    "options": {
+      "A": "The captain of the team",
+      "B": "was accused with",
+      "C": "not encouraging the team members",
+      "D": "No error"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "was accused with",
+      "correctPart": "was accused of",
+      "explanation": [
+        "Rule 1: The verb 'accuse' takes the fixed preposition 'of' when specifying the charge or wrongdoing.",
+        "Rule 2: Using 'with' after accused is a prepositional error (note: 'charged' takes 'with', but 'accused' takes 'of').",
+        "Application: Change 'accused with' to 'accused of'.",
+        "Correct sentence: The captain of the team was accused of not encouraging the team members."
+      ]
+    }
+  }
+]
