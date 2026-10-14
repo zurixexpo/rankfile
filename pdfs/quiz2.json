@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "question": "The children _____ better safety procedures after the unexpected fire in the school.",
+    "options": {
+      "A": "called for",
+      "B": "called in",
+      "C": "called by",
+      "D": "called off"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "called for",
+      "explanation": [
+        "Rule 1: 'Call for' is a phrasal verb meaning to publicly demand, require, or request something as necessary.",
+        "Rule 2: 'Call in' means to summon someone, while 'call off' means to cancel an event.",
+        "Application: Contextually, demanding better safety measures after a fire requires the phrasal verb 'called for'.",
+        "Correct sentence: The children called for better safety procedures after the unexpected fire in the school."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "The teacher _____ (complete) the preparations for the function before the term ended.",
+    "options": {
+      "A": "has completed",
+      "B": "had completed",
+      "C": "completed",
+      "D": "was completed"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "(complete)",
+      "correctPart": "had completed",
+      "explanation": [
+        "Rule 1: When two past actions occur sequentially, the earlier completed action takes the Past Perfect tense (had + past participle).",
+        "Rule 2: The clause 'before the term ended' establishes that the preparations were finished prior to another past event.",
+        "Application: Use the past perfect form 'had completed' for the earlier action.",
+        "Correct sentence: The teacher had completed the preparations for the function before the term ended."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "The stage performance put up by the students were spectacular.",
+    "options": {
+      "A": "The stage performance",
+      "B": "put up by the students",
+      "C": "were spectacular",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "were spectacular",
+      "correctPart": "was spectacular",
+      "explanation": [
+        "Rule 1: The real grammatical subject of the sentence is 'stage performance', which is singular.",
+        "Rule 2: Prepositional/qualifying phrases like 'put up by the students' do not alter the number of the main subject.",
+        "Application: Replace the plural auxiliary verb 'were' with the singular past verb 'was'.",
+        "Correct sentence: The stage performance put up by the students was spectacular."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "You _____ keep your promise.",
+    "options": {
+      "A": "may",
+      "B": "can",
+      "C": "shall",
+      "D": "must"
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "must",
+      "explanation": [
+        "Rule 1: The modal verb 'must' expresses a strong moral obligation, necessity, or compulsion.",
+        "Rule 2: 'May' and 'can' express possibility or ability, which lack the required sense of obligation for keeping promises.",
+        "Application: Keeping promises is a strong moral duty, making 'must' the appropriate modal verb.",
+        "Correct sentence: You must keep your promise."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "You should ____ your mother for your rude behaviour.",
+    "options": {
+      "A": "apologise for",
+      "B": "apologise at",
+      "C": "apologise with",
+      "D": "apologise to"
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "apologise to",
+      "explanation": [
+        "Rule 1: The verb 'apologise' takes the fixed preposition 'to' when indicating the person receiving the apology ('apologise to someone').",
+        "Rule 2: The preposition 'for' is used to specify the reason or offense ('apologise for something').",
+        "Application: Since 'your mother' is the recipient of the apology, 'apologise to' is correct.",
+        "Correct sentence: You should apologise to your mother for your rude behaviour."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "_____ you help me cross the road, young man?",
+    "options": {
+      "A": "Will",
+      "B": "May",
+      "C": "Shall",
+      "D": "Might"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "Will",
+      "explanation": [
+        "Rule 1: 'Will' is used in second-person interrogative sentences to make polite requests or ask someone to perform an action.",
+        "Rule 2: 'May' is used to ask for permission for oneself, not to request help from another person.",
+        "Application: Asking someone else to assist in crossing the road requires the request auxiliary 'Will'.",
+        "Correct sentence: Will you help me cross the road, young man?"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "Twenty years ago, kids at school had never even heard of the internet.",
+    "options": {
+      "A": "Twenty years ago",
+      "B": "kids at school",
+      "C": "had never even heard of",
+      "D": "No error"
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "No error",
+      "correctPart": "No error",
+      "explanation": [
+        "Rule 1: Time expression 'Twenty years ago' sets a clear past time frame.",
+        "Rule 2: 'Had never even heard of' correctly uses the past perfect tense with the idiomatic phrasal verb 'hear of'.",
+        "Application: All subject-verb agreements, tense structures, and prepositions are grammatically accurate.",
+        "Correct sentence: Twenty years ago, kids at school had never even heard of the internet."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "NO NEWS _____ GOOD NEWS.",
+    "options": {
+      "A": "HAS",
+      "B": "HAD",
+      "C": "IS",
+      "D": "ARE"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "IS",
+      "explanation": [
+        "Rule 1: The noun 'news' is uncountable and grammatically singular despite ending in '-s'.",
+        "Rule 2: Uncountable singular nouns take a singular present-tense linking verb when stating a proverb or general truth.",
+        "Application: Use 'IS' to complete the standard English idiom.",
+        "Correct sentence: NO NEWS IS GOOD NEWS."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "When a satellite _____ (launch), the rocket begins by going slowly upwards.",
+    "options": {
+      "A": "is launched",
+      "B": "are launched",
+      "C": "have been launched",
+      "D": "were launched"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "(launch)",
+      "correctPart": "is launched",
+      "explanation": [
+        "Rule 1: General scientific truths/processes are expressed in the simple present passive voice (is/are + past participle).",
+        "Rule 2: The subject 'a satellite' is singular, requiring the singular passive auxiliary 'is'.",
+        "Application: Combine 'is' with the past participle 'launched'.",
+        "Correct sentence: When a satellite is launched, the rocket begins by going slowly upwards."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Behind every success film there is a lengthy creative process.",
+    "options": {
+      "A": "Behind every",
+      "B": "success film",
+      "C": "there is a lengthy",
+      "D": "creative process"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "success film",
+      "correctPart": "successful film",
+      "explanation": [
+        "Rule 1: A noun ('film') must be modified by an adjective, not another abstract noun when expressing quality.",
+        "Rule 2: The adjective form derived from 'success' is 'successful'.",
+        "Application: Replace the noun 'success' with the adjective 'successful'.",
+        "Correct sentence: Behind every successful film there is a lengthy creative process."
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "question": "_____ EDUCATED MIND CAN TEACH MANY.",
+    "options": {
+      "A": "THE",
+      "B": "A",
+      "C": "AN",
+      "D": "THIS"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "AN",
+      "explanation": [
+        "Rule 1: The indefinite article 'an' is used before singular countable nouns starting with a vowel sound.",
+        "Rule 2: The adjective 'EDUCATED' begins with the short vowel sound /e/.",
+        "Application: Use 'AN' as the indefinite article preceding the vowel-sound adjective.",
+        "Correct sentence: AN EDUCATED MIND CAN TEACH MANY."
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "question": "Residents are requested to segregate the wet from the dry waste. Residents ________ adhere to civic norms.",
+    "options": {
+      "A": "can",
+      "B": "ought to",
+      "C": "will be",
+      "D": "might"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "ought to",
+      "explanation": [
+        "Rule 1: 'Ought to' expresses moral duty, social responsibility, or civic obligation.",
+        "Rule 2: Following civic rules and community norms represents a moral duty rather than a physical ability ('can') or remote possibility ('might').",
+        "Application: Use 'ought to' to convey civic duty.",
+        "Correct sentence: Residents are requested to segregate the wet from the dry waste. Residents ought to adhere to civic norms."
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "question": "Blogging today is increasingly gaining on popularity.",
+    "options": {
+      "A": "Blogging today is",
+      "B": "increasingly gaining",
+      "C": "on popularity",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "on popularity",
+      "correctPart": "in popularity",
+      "explanation": [
+        "Rule 1: The idiom 'gain in popularity' uses the fixed preposition 'in' to indicate the field or attribute being gained.",
+        "Rule 2: Using 'on' after 'gaining' in this context is prepositionally incorrect ('gain on' means to narrow a distance during a chase).",
+        "Application: Replace 'on' with 'in'.",
+        "Correct sentence: Blogging today is increasingly gaining in popularity."
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "question": "The boy _________ (realize) his mistake when he reached the end of his journey.",
+    "options": {
+      "A": "has realized",
+      "B": "can realize",
+      "C": "realizing",
+      "D": "realized"
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "(realize)",
+      "correctPart": "realized",
+      "explanation": [
+        "Rule 1: Actions that happened simultaneously or sequentially in past time must maintain past tense consistency.",
+        "Rule 2: The subordinate clause uses simple past tense ('when he reached').",
+        "Application: Match the main verb to simple past tense form 'realized'.",
+        "Correct sentence: The boy realized his mistake when he reached the end of his journey."
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "question": "When Sharad reached the airport he was totally _________ because he was flying for the first time.",
+    "options": {
+      "A": "at ocean",
+      "B": "at sea",
+      "C": "at awe",
+      "D": "at the mercy"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Blank",
+      "correctPart": "at sea",
+      "explanation": [
+        "Rule 1: 'At sea' is an established English idiom meaning confused, lost, or bewildered.",
+        "Rule 2: Expressions like 'at ocean' or 'at awe' are non-existent/incorrect idioms.",
+        "Application: Since first-time flying caused confusion/bewilderment, 'at sea' fits the context.",
+        "Correct sentence: When Sharad reached the airport he was totally at sea because he was flying for the first time."
+      ]
+    }
+  }
+]
