@@ -65,7 +65,7 @@
   },
   {
     "id": 4,
-    "question": "Cloze Test: Read the passage and choose the correct option for blank (d).\n\nThe state government's new initiative on environmental awareness (a) ______ received a warm response from citizens. Fifty percent of the allocated funds (b) ______ utilized to plant saplings across urban areas. Neither local pollution nor climate challenges (c) ______ to deter the enthusiasm of the youth, who (d) ______ actively taking part in weekly plantation drives.\n\nWhich option correctly fills blank (d)?",
+    "question": "Cloze Test: Read the passage and choose the correct option for blank (d).\n\nThe state government's new initiative on environmental awareness (a) ______ received a warm response from citizens. Fifty percent of the allocated funds (b) ______ utilized to plant saplings across urban areas. Neither local pollution nor climate challenges (c) ______ to deter the enthusiasm of the youth, who (d) ______ actively taking part in weekly plantation drives.\n\n'Which option correctly fills blank (d)?'",
     "options": {
       "A": "is",
       "B": "are",
