@@ -1,0 +1,214 @@
+
+[
+  {
+    "id": 1,
+    "question": "The manager, along with his team members, were praised for completing the project on time. Identify the incorrect part.",
+    "options": {
+      "A": "The manager",
+      "B": "along with his team members",
+      "C": "were praised",
+      "D": "for completing the project on time"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "were praised",
+      "correctPart": "was praised",
+      "explanation": [
+        "Rule 1: Phrases such as 'along with', 'together with', and 'as well as' do not change the number of the main subject.",
+        "Rule 2: The main subject 'manager' is singular.",
+        "Application: The singular subject requires 'was praised'.",
+        "Correct sentence: The manager, along with his team members, was praised for completing the project on time."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Not only the coach but also the players was celebrating their victory after the final match. Identify the incorrect part.",
+    "options": {
+      "A": "Not only the coach",
+      "B": "but also the players",
+      "C": "was celebrating",
+      "D": "their victory after the final match"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "was celebrating",
+      "correctPart": "were celebrating",
+      "explanation": [
+        "Rule 1: With 'not only...but also', the verb generally agrees with the subject closest to it.",
+        "Rule 2: The nearest subject is 'players', which is plural.",
+        "Application: The plural subject requires 'were celebrating'.",
+        "Correct sentence: Not only the coach but also the players were celebrating their victory after the final match."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Each of the participants in the singing competition have been awarded a certificate. Identify the incorrect part.",
+    "options": {
+      "A": "Each of the participants",
+      "B": "in the singing competition",
+      "C": "have been awarded",
+      "D": "a certificate"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "have been awarded",
+      "correctPart": "has been awarded",
+      "explanation": [
+        "Rule 1: 'Each of' takes a singular verb in formal subject-verb agreement.",
+        "Rule 2: The main subject is 'each', not 'participants'.",
+        "Application: The singular subject requires 'has been awarded'.",
+        "Correct sentence: Each of the participants in the singing competition has been awarded a certificate."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "Neither of the two books contain the information required for our science project. Identify the incorrect part.",
+    "options": {
+      "A": "Neither of the two books",
+      "B": "contain",
+      "C": "the information required",
+      "D": "for our science project"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "contain",
+      "correctPart": "contains",
+      "explanation": [
+        "Rule 1: 'Neither' used as a pronoun is treated as singular in formal English.",
+        "Rule 2: The phrase 'of the two books' does not change the number of the subject.",
+        "Application: The singular subject requires 'contains'.",
+        "Correct sentence: Neither of the two books contains the information required for our science project."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "Either of the top chefs cook the signature dish on weekends, but the assistant chefs cooks the side items. Identify the parts containing errors.",
+    "options": {
+      "A": "Either of the top chefs cook",
+      "B": "the signature dish on weekends",
+      "C": "the assistant chefs cooks",
+      "D": "Both A and C"
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "cook; cooks",
+      "correctPart": "cooks; cook",
+      "explanation": [
+        "Rule 1: 'Either of + plural noun' takes a singular verb in formal English.",
+        "Rule 2: 'Either of the top chefs' requires 'cooks'.",
+        "Rule 3: The plural subject 'assistant chefs' requires the plural verb 'cook'.",
+        "Application: Correct both verbs: 'cook' becomes 'cooks', and 'cooks' becomes 'cook'.",
+        "Correct sentence: Either of the top chefs cooks the signature dish on weekends, but the assistant chefs cook the side items."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Everybody in the meeting room were asked to turn off their mobile phones. Identify the incorrect part.",
+    "options": {
+      "A": "Everybody",
+      "B": "in the meeting room",
+      "C": "were asked",
+      "D": "to turn off their mobile phones"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "were asked",
+      "correctPart": "was asked",
+      "explanation": [
+        "Rule 1: Indefinite pronouns such as 'everybody', 'everyone', and 'someone' take singular verbs.",
+        "Rule 2: The subject 'everybody' is grammatically singular.",
+        "Application: The singular subject requires 'was asked'.",
+        "Correct sentence: Everybody in the meeting room was asked to turn off their mobile phones."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "A lot of information about the upcoming board examinations were provided on the website. Identify the incorrect part.",
+    "options": {
+      "A": "A lot of information",
+      "B": "about the upcoming board examinations",
+      "C": "were provided",
+      "D": "on the website"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "were provided",
+      "correctPart": "was provided",
+      "explanation": [
+        "Rule 1: 'A lot of' takes a verb that agrees with the noun following 'of'.",
+        "Rule 2: 'Information' is an uncountable singular noun.",
+        "Application: The singular noun requires 'was provided'.",
+        "Correct sentence: A lot of information about the upcoming board examinations was provided on the website."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "There is a few time left before the exam begins, so revise your notes quickly. Identify the incorrect part.",
+    "options": {
+      "A": "There is",
+      "B": "a few time left",
+      "C": "before the exam begins",
+      "D": "so revise your notes quickly"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "a few time",
+      "correctPart": "a little time",
+      "explanation": [
+        "Rule 1: 'A few' is used with countable plural nouns.",
+        "Rule 2: 'Time' is uncountable when referring to an amount of time.",
+        "Application: Use 'a little time' for an uncountable noun.",
+        "Correct sentence: There is a little time left before the exam begins, so revise your notes quickly."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "The poor is facing many difficulties due to the unexpected rise in basic daily expenses. Identify the incorrect part.",
+    "options": {
+      "A": "The poor",
+      "B": "is facing",
+      "C": "many difficulties",
+      "D": "due to the unexpected rise in basic daily expenses"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "is facing",
+      "correctPart": "are facing",
+      "explanation": [
+        "Rule 1: 'The + adjective' can refer to a group of people as a whole.",
+        "Rule 2: 'The poor' refers to poor people and takes a plural verb.",
+        "Application: The plural subject requires 'are facing'.",
+        "Correct sentence: The poor are facing many difficulties due to the unexpected rise in basic daily expenses."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Aman is one of those smart students who answers every difficult question correctly. Identify the incorrect part.",
+    "options": {
+      "A": "Aman is",
+      "B": "one of those smart students",
+      "C": "who answers",
+      "D": "every difficult question correctly"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "who answers",
+      "correctPart": "who answer",
+      "explanation": [
+        "Rule 1: In 'one of those + plural noun + who', the relative pronoun 'who' generally refers to the plural noun.",
+        "Rule 2: Here, 'who' refers to 'students', which is plural.",
+        "Application: The plural subject requires 'answer'.",
+        "Correct sentence: Aman is one of those smart students who answer every difficult question correctly."
+      ]
+    }
+  }
+]
