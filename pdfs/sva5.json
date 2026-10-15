@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "Question 1. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: The principal, (A) / along with all the teachers, (B) / were attending the meeting (C) / in the main conference hall. (D)\n\nSentence II: Not only the students (A) / but also the class teacher (B) / were pleased with (C) / the final sports results.(D) 'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "question": "Question 1. Identify the incorrect parts in Sentence I and Sentence II.<br/>\n\nSentence I: The principal, (A) / along with all the teachers, (B) / were attending the meeting (C) / in the main conference hall. (D)\n\n<br/> Sentence II: Not only the students (A) / but also the class teacher (B) / were pleased with (C) / the final sports results.(D) 'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
     "options": {
       "A": "CA",
       "B": "CB",
