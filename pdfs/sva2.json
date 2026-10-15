@@ -1,0 +1,213 @@
+
+[
+  {
+    "id": 1,
+    "question": "Neither the lead researcher nor the lab technicians ______ aware that the data had been corrupted.",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "has",
+      "D": "is being"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Neither the lead researcher nor the lab technicians were",
+      "correctPart": "Neither the lead researcher nor the lab technicians were",
+      "explanation": [
+        "Rule 1: With neither...nor, the verb generally agrees with the subject closest to it.",
+        "Rule 2: The nearest subject is 'lab technicians', which is plural.",
+        "Application: The plural subject takes the plural verb 'were'.",
+        "Correct sentence: Neither the lead researcher nor the lab technicians were aware that the data had been corrupted."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "A complete package of diagnostic tools, along with several modern testing devices, ______ delivered to the facility yesterday.",
+    "options": {
+      "A": "were",
+      "B": "have been",
+      "C": "was",
+      "D": "are"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "were delivered",
+      "correctPart": "was delivered",
+      "explanation": [
+        "Rule 1: Phrases such as 'along with', 'together with', and 'as well as' do not change the subject's number.",
+        "Rule 2: The main subject is 'package', which is singular.",
+        "Application: The singular subject requires 'was delivered'.",
+        "Correct sentence: A complete package of diagnostic tools, along with several modern testing devices, was delivered to the facility yesterday."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Dr. Aris is one of those dedicated scientists who ______ countless hours to field research every month.",
+    "options": {
+      "A": "dedicates",
+      "B": "dedicate",
+      "C": "is dedicating",
+      "D": "has dedicated"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "who dedicates countless hours",
+      "correctPart": "who dedicate countless hours",
+      "explanation": [
+        "Rule 1: In 'one of those + plural noun + who', the relative pronoun 'who' generally refers to the plural noun.",
+        "Rule 2: Here, 'who' refers to 'scientists', which is plural.",
+        "Application: The plural subject takes the base verb 'dedicate'.",
+        "Correct sentence: Dr. Aris is one of those dedicated scientists who dedicate countless hours to field research every month."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "The board of directors ______ split in their opinions regarding the proposed merger.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "were",
+      "D": "has been"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "The board of directors is split in their opinions",
+      "correctPart": "The board of directors were split in their opinions",
+      "explanation": [
+        "Rule 1: Collective nouns can take plural verbs in varieties of English that allow notional agreement when members act individually.",
+        "Rule 2: The phrase 'in their opinions' emphasizes the individual views of the board members.",
+        "Application: The intended answer is 'were', reflecting the members' differing opinions.",
+        "Correct sentence: The board of directors were split in their opinions regarding the proposed merger."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "Every manager, supervisor, and team member ______ required to complete the safety training by Friday.",
+    "options": {
+      "A": "are",
+      "B": "were",
+      "C": "have been",
+      "D": "is"
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "are required",
+      "correctPart": "is required",
+      "explanation": [
+        "Rule 1: When 'every' precedes multiple singular nouns joined by 'and', the subject is treated as singular.",
+        "Rule 2: Each manager, supervisor, and team member is considered individually.",
+        "Application: The singular subject takes 'is required'.",
+        "Correct sentence: Every manager, supervisor, and team member is required to complete the safety training by Friday."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Seldom ______ the combination of high humidity and freezing temperatures cause such severe structural damage.",
+    "options": {
+      "A": "do",
+      "B": "does",
+      "C": "have",
+      "D": "are"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Seldom do the combination of high humidity and freezing temperatures cause",
+      "correctPart": "Seldom does the combination of high humidity and freezing temperatures cause",
+      "explanation": [
+        "Rule 1: Negative or restrictive adverbs such as 'seldom' at the beginning of a sentence trigger subject-auxiliary inversion.",
+        "Rule 2: The main subject is 'combination', which is singular.",
+        "Application: The singular auxiliary 'does' is required, followed by the base verb 'cause'.",
+        "Correct sentence: Seldom does the combination of high humidity and freezing temperatures cause such severe structural damage."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "Ten thousand dollars ______ considered a generous stipend for a three-month summer internship.",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "stay",
+      "D": "were"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Ten thousand dollars are considered",
+      "correctPart": "Ten thousand dollars is considered",
+      "explanation": [
+        "Rule 1: Sums of money, periods of time, and distances take singular verbs when treated as single units.",
+        "Rule 2: 'Ten thousand dollars' represents one total amount of money.",
+        "Application: The singular verb 'is' is appropriate.",
+        "Correct sentence: Ten thousand dollars is considered a generous stipend for a three-month summer internship."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "More than one candidate ______ filed a formal complaint regarding the election proceedings.",
+    "options": {
+      "A": "have",
+      "B": "has",
+      "C": "were",
+      "D": "are"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "More than one candidate have filed",
+      "correctPart": "More than one candidate has filed",
+      "explanation": [
+        "Rule 1: The expression 'more than one' generally takes a singular noun and singular verb.",
+        "Rule 2: The noun 'candidate' is singular in this construction.",
+        "Application: The present perfect tense requires 'has filed'.",
+        "Correct sentence: More than one candidate has filed a formal complaint regarding the election proceedings."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "The number of international applicants to the program ______ increased dramatically this semester.",
+    "options": {
+      "A": "have",
+      "B": "are",
+      "C": "has",
+      "D": "were"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "The number of international applicants have increased",
+      "correctPart": "The number of international applicants has increased",
+      "explanation": [
+        "Rule 1: 'The number of' refers to a single numerical figure and takes a singular verb.",
+        "Rule 2: Do not confuse it with 'a number of', which generally takes a plural verb.",
+        "Application: The singular subject requires 'has increased'.",
+        "Correct sentence: The number of international applicants to the program has increased dramatically this semester."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Neither of the two proposed solutions ______ viable under the current budget constraints.",
+    "options": {
+      "A": "seem",
+      "B": "are",
+      "C": "seems",
+      "D": "were"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "Neither of the two proposed solutions seem viable",
+      "correctPart": "Neither of the two proposed solutions seems viable",
+      "explanation": [
+        "Rule 1: 'Neither' used as a pronoun is treated as singular in formal subject-verb agreement.",
+        "Rule 2: The phrase 'of the two proposed solutions' does not change the number of the subject.",
+        "Application: The singular verb 'seems' is appropriate.",
+        "Correct sentence: Neither of the two proposed solutions seems viable under the current budget constraints."
+      ]
+    }
+  }
+]
