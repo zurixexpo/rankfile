@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "question": "Question 1. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: The principal, (A) / along with all the teachers, (B) / were attending the meeting (C) / in the main conference hall. (D)\n\nSentence II: Not only the students (A) / but also the class teacher (B) / were pleased with (C) / the final sports results.(D) 'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "CA",
+      "B": "CB",
+      "C": "CC",
+      "D": "DB"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "Sentence I: Part C — were attending; Sentence II: Part C — were pleased with",
+      "correctPart": "Sentence I: was attending; Sentence II: was pleased with",
+      "explanation": [
+        "Rule 1: Phrases such as 'along with', 'as well as', and 'together with' do not change the number of the main subject.",
+        "Rule 2: With 'not only...but also', the verb agrees with the subject closest to it.",
+        "Application: Sentence I has the singular subject 'principal', so 'were attending' should be 'was attending'. In Sentence II, the nearer subject is the singular 'class teacher', so 'were pleased' should be 'was pleased'.",
+        "Correct sentence I: The principal, along with all the teachers, was attending the meeting in the main conference hall.",
+        "Correct sentence II: Not only the students but also the class teacher was pleased with the final sports results."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Question 2. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: Each of the (A) / submitted assignments (B) / have been evaluated (C) / by the subject expert. (D)\n\nSentence II: Neither of the (A) / two applicant candidates (B) / were qualified for (C) / the final interview round.(D) 'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "CA",
+      "B": "CC",
+      "C": "BC",
+      "D": "DA"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Sentence I: Part C — have been evaluated; Sentence II: Part C — were qualified for",
+      "correctPart": "Sentence I: has been evaluated; Sentence II: was qualified for",
+      "explanation": [
+        "Rule 1: 'Each of' followed by a plural noun takes a singular verb.",
+        "Rule 2: In formal subject-verb agreement questions, 'neither of' followed by a plural noun generally takes a singular verb.",
+        "Application: 'Each' and 'neither' are singular in these constructions, so 'have' changes to 'has' and 'were' changes to 'was'.",
+        "Correct sentence I: Each of the submitted assignments has been evaluated by the subject expert.",
+        "Correct sentence II: Neither of the two applicant candidates was qualified for the final interview round."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Question 3. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: Either of the master chefs (A) / cook the main course (B) / when the restaurant (C) / gets busy on weekends. (D)\n\nSentence II: The head chef prepares (A) / the starter items, (B) / but the assistant cooks (C) / prepares the desserts. (D)\n\n'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "BD",
+      "B": "BA",
+      "C": "AD",
+      "D": "BC"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Sentence I: Part B — cook the main course; Sentence II: Part D — prepares the desserts",
+      "correctPart": "Sentence I: cooks the main course; Sentence II: prepare the desserts",
+      "explanation": [
+        "Rule 1: 'Either of' followed by a plural noun takes a singular verb in standard exam grammar.",
+        "Rule 2: A plural subject takes a plural verb.",
+        "Application: Sentence I requires 'cooks' because the subject is 'Either'. In Sentence II, 'assistant cooks' is plural, so 'prepares' should be 'prepare'.",
+        "Correct sentence I: Either of the master chefs cooks the main course when the restaurant gets busy on weekends.",
+        "Correct sentence II: The head chef prepares the starter items, but the assistant cooks prepare the desserts."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "Question 4. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: Everybody in (A) / the auditorium (B) / were standing up (C) / to applaud the performers. (D)\n\nSentence II: A lot of valuable time (A) / were wasted while (B) / waiting for the (C) / chief guest to arrive. (D)\n\n'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "CB",
+      "B": "CA",
+      "C": "DB",
+      "D": "BC"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Sentence I: Part C — were standing up; Sentence II: Part B — were wasted while",
+      "correctPart": "Sentence I: was standing up; Sentence II: was wasted while",
+      "explanation": [
+        "Rule 1: Indefinite pronouns such as 'everybody', 'everyone', and 'someone' take singular verbs.",
+        "Rule 2: 'Time' is an uncountable noun and takes a singular verb in this context.",
+        "Application: 'Everybody' requires 'was standing'. The expression 'a lot of valuable time' also requires 'was wasted'.",
+        "Correct sentence I: Everybody in the auditorium was standing up to applaud the performers.",
+        "Correct sentence II: A lot of valuable time was wasted while waiting for the chief guest to arrive."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "Question 5. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: There is a few milk (A) / left in the jug, (B) / so you can make (C) / a cup of tea. (D)\n\nSentence II: The government believes (A) / that the rich is (B) / responsible for helping (C) / the underprivileged communities. (D)\n\n'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "AB",
+      "B": "AC",
+      "C": "BA",
+      "D": "BB"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Sentence I: Part A — a few milk; Sentence II: Part B — the rich is",
+      "correctPart": "Sentence I: a little milk; Sentence II: the rich are",
+      "explanation": [
+        "Rule 1: Use 'a little' with uncountable nouns and 'a few' with plural countable nouns.",
+        "Rule 2: 'The + adjective', when referring to a group of people, takes a plural verb.",
+        "Application: 'Milk' is uncountable, so 'a few milk' should be 'a little milk'. 'The rich' refers to rich people as a group, so 'is' should be 'are'.",
+        "Correct sentence I: There is a little milk left in the jug, so you can make a cup of tea.",
+        "Correct sentence II: The government believes that the rich are responsible for helping the underprivileged communities."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Question 6. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: Rohan is one of (A) / those bright students (B) / who always scores (C) / top marks in physics. (D)\n\nSentence II: Neither the captain (A) / nor his teammates (B) / was present at (C) / the press conference. (D)\n\n'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "CC",
+      "B": "CB",
+      "C": "CA",
+      "D": "DB"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Sentence I: Part C — who always scores; Sentence II: Part C — was present at",
+      "correctPart": "Sentence I: who always score; Sentence II: were present at",
+      "explanation": [
+        "Rule 1: In the construction 'one of those + plural noun + who', the relative pronoun 'who' refers to the plural noun, so it takes a plural verb.",
+        "Rule 2: With 'neither...nor', the verb generally agrees with the nearer subject.",
+        "Application: 'Who' refers to 'students', so 'scores' should be 'score'. In Sentence II, the nearer subject is 'teammates', which is plural, so 'was' should be 'were'.",
+        "Correct sentence I: Rohan is one of those bright students who always score top marks in physics.",
+        "Correct sentence II: Neither the captain nor his teammates were present at the press conference."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "Question 7. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: Each of the (A) / four boys have (B) / brought their own (C) / project materials. (D)\n\nSentence II: Not only the manager (A) / but also his staff (B) / was working late (C) / to finish the work. (D)\n\n'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "BC",
+      "B": "BB",
+      "C": "AC",
+      "D": "BA"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Sentence I: Part B — have; Sentence II: Part C — was working late",
+      "correctPart": "Sentence I: has; Sentence II: were working late",
+      "explanation": [
+        "Rule 1: 'Each of' followed by a plural noun takes a singular verb.",
+        "Rule 2: With 'not only...but also', the verb agrees with the nearer subject. In this sentence, 'staff' is intended as a plural group of employees.",
+        "Application: 'Each' requires 'has brought'. Since 'his staff' refers to the employees acting individually, 'was working' changes to 'were working'.",
+        "Correct sentence I: Each of the four boys has brought their own project materials.",
+        "Correct sentence II: Not only the manager but also his staff were working late to finish the work."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "Question 8. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: There are a little (A) / students present (B) / in the computer lab (C) / for the practical exam. (D)\n\nSentence II: The unemployed (A) / is struggling to (B) / find stable jobs (C) / in the current market. (D)\n\n'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "AB",
+      "B": "AA",
+      "C": "BC",
+      "D": "CA"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Sentence I: Part A — a little; Sentence II: Part B — is struggling to",
+      "correctPart": "Sentence I: a few; Sentence II: are struggling to",
+      "explanation": [
+        "Rule 1: Use 'a few' with plural countable nouns and 'a little' with uncountable nouns.",
+        "Rule 2: 'The unemployed' refers to unemployed people as a group and takes a plural verb.",
+        "Application: 'Students' is countable, so 'a little students' should be 'a few students'. 'The unemployed' requires 'are struggling'.",
+        "Correct sentence I: There are a few students present in the computer lab for the practical exam.",
+        "Correct sentence II: The unemployed are struggling to find stable jobs in the current market."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "Question 9. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: The head doctor, (A) / along with two nurses, (B) / were examining (C) / the emergency patient. (D)\n\nSentence II: Neither of the (A) / two routes lead (B) / directly to the (C) / railway station. (D)\n\n'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "CB",
+      "B": "CC",
+      "C": "BA",
+      "D": "CA"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Sentence I: Part C — were examining; Sentence II: Part B — lead",
+      "correctPart": "Sentence I: was examining; Sentence II: leads",
+      "explanation": [
+        "Rule 1: Phrases such as 'along with' do not change the number of the main subject.",
+        "Rule 2: In standard competitive-exam grammar, 'neither of' followed by a plural noun takes a singular verb.",
+        "Application: The main subject in Sentence I is 'head doctor', so 'were examining' should be 'was examining'. In Sentence II, 'neither' requires 'leads'.",
+        "Correct sentence I: The head doctor, along with two nurses, was examining the emergency patient.",
+        "Correct sentence II: Neither of the two routes leads directly to the railway station."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Question 10. Identify the incorrect parts in Sentence I and Sentence II.\n\nSentence I: Everybody who (A) / attended the workshop (B) / were given a free (C) / participation certificate. (D)\n\nSentence II: A lot of research work (A) / were required to (B) / complete this (C) / science project. (D)\n\n'Select the correct option pair representing the errors in (Sentence I, Sentence II).'",
+    "options": {
+      "A": "CB",
+      "B": "CC",
+      "C": "CA",
+      "D": "DB"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Sentence I: Part C — were given a free; Sentence II: Part B — were required to",
+      "correctPart": "Sentence I: was given a free; Sentence II: was required to",
+      "explanation": [
+        "Rule 1: 'Everybody' is singular and takes a singular verb.",
+        "Rule 2: 'Research work' is an uncountable singular expression and takes a singular verb.",
+        "Application: 'Were given' should be 'was given', and 'were required' should be 'was required'.",
+        "Correct sentence I: Everybody who attended the workshop was given a free participation certificate.",
+        "Correct sentence II: A lot of research work was required to complete this science project."
+      ]
+    }
+  }
+]
