@@ -1,0 +1,87 @@
+
+[
+  {
+    "id": 1,
+    "question": "Cloze Test: Read the passage and choose the correct option for blank (a).\n\nThe state government's new initiative on environmental awareness (a) ______ received a warm response from citizens. Fifty percent of the allocated funds (b) ______ utilized to plant saplings across urban areas. Neither local pollution nor climate challenges (c) ______ to deter the enthusiasm of the youth, who (d) ______ actively taking part in weekly plantation drives.\n\n'Which option correctly fills blank (a)?'",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "had have",
+      "D": "are"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "have received",
+      "correctPart": "has received",
+      "explanation": [
+        "Rule 1: The verb agrees with the main subject.",
+        "Rule 2: The main subject is 'initiative', which is singular.",
+        "Application: The singular subject requires 'has received'.",
+        "Correct sentence: The state government's new initiative on environmental awareness has received a warm response from citizens."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Cloze Test: Read the passage and choose the correct option for blank (b).\n\nThe state government's new initiative on environmental awareness (a) ______ received a warm response from citizens. Fifty percent of the allocated funds (b) ______ utilized to plant saplings across urban areas. Neither local pollution nor climate challenges (c) ______ to deter the enthusiasm of the youth, who (d) ______ actively taking part in weekly plantation drives.\n\n'Which option correctly fills blank (b)?'",
+    "options": {
+      "A": "was",
+      "B": "were",
+      "C": "has",
+      "D": "is"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "was utilized",
+      "correctPart": "were utilized",
+      "explanation": [
+        "Rule 1: A percentage expression generally agrees with the noun following 'of'.",
+        "Rule 2: The noun 'funds' is plural.",
+        "Application: The plural noun requires 'were utilized'.",
+        "Correct sentence: Fifty percent of the allocated funds were utilized to plant saplings across urban areas."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Cloze Test: Read the passage and choose the correct option for blank (c).\n\nThe state government's new initiative on environmental awareness (a) ______ received a warm response from citizens. Fifty percent of the allocated funds (b) ______ utilized to plant saplings across urban areas. Neither local pollution nor climate challenges (c) ______ to deter the enthusiasm of the youth, who (d) ______ actively taking part in weekly plantation drives.\n\n'Which option correctly fills blank (c)?'",
+    "options": {
+      "A": "seems",
+      "B": "seem",
+      "C": "has seemed",
+      "D": "is seeming"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Neither local pollution nor climate challenges seems",
+      "correctPart": "Neither local pollution nor climate challenges seem",
+      "explanation": [
+        "Rule 1: With 'neither...nor', the verb generally agrees with the nearest subject.",
+        "Rule 2: The nearest subject is 'climate challenges', which is plural.",
+        "Application: The plural subject requires 'seem'.",
+        "Correct sentence: Neither local pollution nor climate challenges seem to deter the enthusiasm of the youth."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "Cloze Test: Read the passage and choose the correct option for blank (d).\n\nThe state government's new initiative on environmental awareness (a) ______ received a warm response from citizens. Fifty percent of the allocated funds (b) ______ utilized to plant saplings across urban areas. Neither local pollution nor climate challenges (c) ______ to deter the enthusiasm of the youth, who (d) ______ actively taking part in weekly plantation drives.\n\n'Which option correctly fills blank (d)?'",
+    "options": {
+      "A": "is",
+      "B": "are",
+      "C": "has",
+      "D": "was"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "who is actively taking part",
+      "correctPart": "who are actively taking part",
+      "explanation": [
+        "Rule 1: A verb in a relative clause agrees with the noun to which the relative pronoun refers.",
+        "Rule 2: Here, 'who' refers to 'youth', meaning young people.",
+        "Application: The intended plural meaning requires 'are'.",
+        "Correct sentence: Neither local pollution nor climate challenges seem to deter the enthusiasm of the youth, who are actively taking part in weekly plantation drives."
+      ]
+    }
+  }
+]
