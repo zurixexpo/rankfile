@@ -1,0 +1,214 @@
+
+[
+  {
+    "id": 1,
+    "question": "The head chef, along with his three junior assistants, cooks delicious meals, but the main courses cooks too slowly during peak hours. Identify the incorrect part.",
+    "options": {
+      "A": "The head chef, along with his three junior assistants",
+      "B": "cooks delicious meals",
+      "C": "but the main courses cooks too slowly",
+      "D": "during peak hours"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "the main courses cooks too slowly",
+      "correctPart": "the main courses cook too slowly",
+      "explanation": [
+        "Rule 1: The phrase 'along with' does not change the number of the main subject.",
+        "Rule 2: The subject 'main courses' is plural and requires a plural verb.",
+        "Application: Use 'cook' instead of 'cooks' with the plural subject.",
+        "Correct sentence: The head chef, along with his three junior assistants, cooks delicious meals, but the main courses cook too slowly during peak hours."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Not only the principal but also the senior teachers was invited to address the school assembly this morning. Identify the incorrect part.",
+    "options": {
+      "A": "Not only the principal",
+      "B": "but also the senior teachers",
+      "C": "was invited",
+      "D": "to address the school assembly this morning"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "was invited",
+      "correctPart": "were invited",
+      "explanation": [
+        "Rule 1: With 'not only...but also', the verb generally agrees with the subject closest to it.",
+        "Rule 2: The nearest subject is 'senior teachers', which is plural.",
+        "Application: Use 'were invited' to agree with the plural subject.",
+        "Correct sentence: Not only the principal but also the senior teachers were invited to address the school assembly this morning."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Each of the newly elected student council representatives were awarded a certificate of merit by the chief guest. Identify the incorrect part.",
+    "options": {
+      "A": "Each of the newly elected student council representatives",
+      "B": "were awarded",
+      "C": "a certificate of merit",
+      "D": "by the chief guest"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "were awarded",
+      "correctPart": "was awarded",
+      "explanation": [
+        "Rule 1: 'Each of + plural noun' takes a singular verb in formal subject-verb agreement.",
+        "Rule 2: The main subject is 'each', not 'representatives'.",
+        "Application: Use 'was awarded' because 'each' is singular.",
+        "Correct sentence: Each of the newly elected student council representatives was awarded a certificate of merit by the chief guest."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "Neither of the two proposed solutions seem practical under the current financial constraints of the project. Identify the incorrect part.",
+    "options": {
+      "A": "Neither of the two proposed solutions",
+      "B": "seem practical",
+      "C": "under the current financial constraints",
+      "D": "of the project"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "seem practical",
+      "correctPart": "seems practical",
+      "explanation": [
+        "Rule 1: 'Neither' used as a pronoun takes a singular verb in formal English.",
+        "Rule 2: The phrase 'of the two proposed solutions' does not change the subject's number.",
+        "Application: Use 'seems' with the singular subject 'neither'.",
+        "Correct sentence: Neither of the two proposed solutions seems practical under the current financial constraints of the project."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "Either of the two master chefs cook the special curry when the restaurant gets busy, and both cooks well. Identify the parts containing errors.",
+    "options": {
+      "A": "Either of the two master chefs cook",
+      "B": "the special curry when the restaurant gets busy",
+      "C": "both cooks well",
+      "D": "Both A and C"
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "cook; cooks",
+      "correctPart": "cooks; cook",
+      "explanation": [
+        "Rule 1: 'Either of + plural noun' takes a singular verb in formal English.",
+        "Rule 2: 'Either of the two master chefs' requires 'cooks'.",
+        "Rule 3: The pronoun 'both' is plural and requires the verb 'cook'.",
+        "Application: Correct both verbs: 'cook' becomes 'cooks', and 'cooks' becomes 'cook'.",
+        "Correct sentence: Either of the two master chefs cooks the special curry when the restaurant gets busy, and both cook well."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Everybody in the classroom were eager to participate in the interactive science demonstration. Identify the incorrect part.",
+    "options": {
+      "A": "Everybody",
+      "B": "in the classroom",
+      "C": "were eager",
+      "D": "to participate in the interactive science demonstration"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "were eager",
+      "correctPart": "was eager",
+      "explanation": [
+        "Rule 1: Indefinite pronouns such as 'everybody', 'everyone', and 'nobody' are grammatically singular.",
+        "Rule 2: The subject 'everybody' takes a singular verb.",
+        "Application: Use 'was eager' instead of 'were eager'.",
+        "Correct sentence: Everybody in the classroom was eager to participate in the interactive science demonstration."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "A lot of effort were put into organizing the cultural fest by the student volunteers. Identify the incorrect part.",
+    "options": {
+      "A": "A lot of effort",
+      "B": "were put",
+      "C": "into organizing the cultural fest",
+      "D": "by the student volunteers"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "were put",
+      "correctPart": "was put",
+      "explanation": [
+        "Rule 1: With 'a lot of', the verb agrees with the noun following 'of'.",
+        "Rule 2: 'Effort' is an uncountable noun used here in the singular sense.",
+        "Application: Use 'was put' to agree with 'effort'.",
+        "Correct sentence: A lot of effort was put into organizing the cultural fest by the student volunteers."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "There is a few milk left in the refrigerator, so we do not need to buy any more today. Identify the incorrect part.",
+    "options": {
+      "A": "There is",
+      "B": "a few milk left",
+      "C": "in the refrigerator",
+      "D": "so we do not need to buy any more today"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "a few milk",
+      "correctPart": "a little milk",
+      "explanation": [
+        "Rule 1: 'A few' is used with plural countable nouns.",
+        "Rule 2: 'Milk' is an uncountable noun.",
+        "Application: Use 'a little' with uncountable nouns.",
+        "Correct sentence: There is a little milk left in the refrigerator, so we do not need to buy any more today."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "The rich is expected to contribute generously to the local community relief fund during times of crisis. Identify the incorrect part.",
+    "options": {
+      "A": "The rich",
+      "B": "is expected",
+      "C": "to contribute generously",
+      "D": "to the local community relief fund during times of crisis"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "is expected",
+      "correctPart": "are expected",
+      "explanation": [
+        "Rule 1: 'The + adjective' can refer to a whole class of people.",
+        "Rule 2: 'The rich' refers to rich people collectively and takes a plural verb.",
+        "Application: Use 'are expected' instead of 'is expected'.",
+        "Correct sentence: The rich are expected to contribute generously to the local community relief fund during times of crisis."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Rahul is one of those talented musicians who plays the violin exceptionally well in the school orchestra. Identify the incorrect part.",
+    "options": {
+      "A": "Rahul is",
+      "B": "one of those talented musicians",
+      "C": "who plays",
+      "D": "the violin exceptionally well in the school orchestra"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "who plays",
+      "correctPart": "who play",
+      "explanation": [
+        "Rule 1: In 'one of those + plural noun + who', the relative pronoun 'who' generally refers to the plural noun.",
+        "Rule 2: Here, 'who' refers to 'musicians', which is plural.",
+        "Application: Use 'play' to agree with the plural antecedent 'musicians'.",
+        "Correct sentence: Rahul is one of those talented musicians who play the violin exceptionally well in the school orchestra."
+      ]
+    }
+  }
+]
