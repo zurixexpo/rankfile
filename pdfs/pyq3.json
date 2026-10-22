@@ -1,0 +1,214 @@
+
+[
+  {
+    "id": 1,
+    "question": "The study examines the relation of emissions and global warming.",
+    "options": {
+      "A": "The study examines",
+      "B": "the relation of",
+      "C": "emissions and global warming",
+      "D": "No error"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "the relation of emissions and global warming",
+      "correctPart": "the relation between emissions and global warming",
+      "explanation": [
+        "Rule 1: The standard expression for describing a relationship between two things is 'relation between A and B'.",
+        "Rule 2: 'Relation of' is not the appropriate construction in this sentence.",
+        "Application: Replace 'of' with 'between'.",
+        "Correct sentence: The study examines the relation between emissions and global warming."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Therefore, I request you to please consider this request of ______ (construct) a park in our society so that each and every person can benefit and we can enjoy a healthy environment amidst the concrete jungle.",
+    "options": {
+      "A": "construct",
+      "B": "constructing",
+      "C": "constructed",
+      "D": "to construct"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "request of construct a park",
+      "correctPart": "request of constructing a park",
+      "explanation": [
+        "Rule 1: A preposition is generally followed by a noun or a gerund when an action is expressed.",
+        "Rule 2: 'Of' is a preposition, so the -ing form of the verb is appropriate.",
+        "Application: Use 'constructing' after 'of'.",
+        "Correct sentence: Therefore, I request you to please consider this request for constructing a park in our society so that each and every person can benefit and we can enjoy a healthy environment amidst the concrete jungle."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Yoga should help lower blood pressure, cholesterol, and blood sugar, all of which are not good for your heart and vessels.",
+    "options": {
+      "A": "Yoga should help lower",
+      "B": "blood pressure, cholesterol, and blood sugar",
+      "C": "all of which are not good for your heart and vessels",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "all of which are not good for your heart and vessels",
+      "correctPart": "all of which can harm your heart and blood vessels",
+      "explanation": [
+        "Rule 1: A relative pronoun such as 'which' should clearly refer to the intended noun or phrase.",
+        "Rule 2: High blood pressure, high cholesterol, and high blood sugar can harm cardiovascular health; these conditions are not inherently described accurately by the original wording.",
+        "Application: Replace the unclear phrase with 'all of which can harm your heart and blood vessels' for clearer meaning.",
+        "Correct sentence: Yoga should help lower blood pressure, cholesterol, and blood sugar, all of which can harm your heart and blood vessels."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "In order to enable the stakeholders to ______ (access / assess / accent) all the applicable circulars at one place, the provisions of the circulars issued till January 6, 2024, are incorporated in this master circular.",
+    "options": {
+      "A": "access",
+      "B": "assess",
+      "C": "accent",
+      "D": "No correction required"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "to assess all the applicable circulars at one place",
+      "correctPart": "to access all the applicable circulars at one place",
+      "explanation": [
+        "Rule 1: 'Access' means to obtain, reach, or retrieve information.",
+        "Rule 2: 'Assess' means to evaluate, while 'accent' refers to pronunciation or emphasis.",
+        "Application: The stakeholders need to retrieve the circulars, so 'access' is the correct word.",
+        "Correct sentence: In order to enable the stakeholders to access all the applicable circulars at one place, the provisions of the circulars issued till January 6, 2024, are incorporated in this master circular."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "A founded s goal, during the first phase, is to learn how to obtain feedback on low prospective and real customers are experience the product.",
+    "options": {
+      "A": "A founded s goal",
+      "B": "during the first phase",
+      "C": "to learn how to obtain feedback",
+      "D": "No error"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "A founded s goal",
+      "correctPart": "A founder's goal",
+      "explanation": [
+        "Rule 1: The possessive form of a singular noun is generally made by adding apostrophe + s.",
+        "Rule 2: 'Founder' refers to a person who establishes an organisation, while 'founded' is a verb form.",
+        "Application: Use 'founder's' to show possession.",
+        "Correct sentence: A founder's goal, during the first phase, is to learn how to obtain feedback on how prospective and real customers are experiencing the product."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "In many low and middle income countries, health average has improved dramatically in the last two but health outcomes may not.",
+    "options": {
+      "A": "In many low and middle income countries",
+      "B": "health average has improved dramatically",
+      "C": "in the last two",
+      "D": "but health outcomes may not"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "health average has improved dramatically",
+      "correctPart": "health has improved dramatically on average",
+      "explanation": [
+        "Rule 1: 'Average' can function as a noun or adjective, but its position must make the intended meaning clear.",
+        "Rule 2: 'On average' is the standard expression used to describe an overall trend.",
+        "Application: Replace 'health average' with 'health ... on average'. The phrase 'in the last two' also appears incomplete without a time unit.",
+        "Correct sentence: In many low- and middle-income countries, health has improved dramatically on average in the last two decades, but health outcomes may not have improved."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "Excited about his newly earned powers, Midas started touching all kinds of things, ______ each item into pure gold.",
+    "options": {
+      "A": "to turning",
+      "B": "turning",
+      "C": "turned",
+      "D": "turns"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "things, turned each item into pure gold",
+      "correctPart": "things, turning each item into pure gold",
+      "explanation": [
+        "Rule 1: A present participle (-ing form) can describe an action that occurs as a result of the main action.",
+        "Rule 2: The phrase 'turning each item into pure gold' describes the result of Midas touching things.",
+        "Application: Use 'turning' to connect the resulting action to the main clause.",
+        "Correct sentence: Excited about his newly earned powers, Midas started touching all kinds of things, turning each item into pure gold."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "The authors of the book ______ all reasonable care to ensure that the contents of the book do not violate any or other intellectual property rights of any person in any manner.",
+    "options": {
+      "A": "has taking",
+      "B": "have taken",
+      "C": "has taken",
+      "D": "have been took"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "The authors of the book has taken",
+      "correctPart": "The authors of the book have taken",
+      "explanation": [
+        "Rule 1: A plural subject takes a plural auxiliary verb.",
+        "Rule 2: 'Authors' is plural, so 'have' is required rather than 'has'.",
+        "Rule 3: The present perfect tense is formed with have/has + past participle.",
+        "Application: 'Have taken' is the correct present perfect form for the plural subject.",
+        "Correct sentence: The authors of the book have taken all reasonable care to ensure that the contents of the book do not violate any intellectual property rights of any person in any manner."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "Planting a tree is a very noble deed and ______ the earth from global warming.",
+    "options": {
+      "A": "saves",
+      "B": "saving",
+      "C": "had saved",
+      "D": "should save"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "Planting a tree is a very noble deed and saving the earth",
+      "correctPart": "Planting a tree is a very noble deed and saves the earth",
+      "explanation": [
+        "Rule 1: Parallel grammatical structures should be used when connecting related ideas.",
+        "Rule 2: The gerund phrase 'Planting a tree' is treated as a singular subject, so a singular verb is appropriate.",
+        "Application: 'Saves' is the best available option for the intended simple present meaning, although the sentence would be clearer if rewritten.",
+        "Correct sentence: Planting a tree is a very noble deed because it helps protect the earth from global warming."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Use this appliance only for its intentional use as described in this manual. Do not use attachments that are not recommended by the manufacturer.",
+    "options": {
+      "A": "Use this appliance only",
+      "B": "for its intentional use",
+      "C": "as described in this manual",
+      "D": "Do not use attachments that are not recommended by the manufacturer"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "for its intentional use",
+      "correctPart": "for its intended use",
+      "explanation": [
+        "Rule 1: 'Intended' means planned or designed for a particular purpose.",
+        "Rule 2: 'Intentional' means done deliberately and does not fit naturally in this expression.",
+        "Application: Replace 'intentional' with 'intended'.",
+        "Correct sentence: Use this appliance only for its intended use as described in this manual. Do not use attachments that are not recommended by the manufacturer."
+      ]
+    }
+  }
+]
