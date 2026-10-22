@@ -104,28 +104,27 @@
         "Correct sentence: A founder's goal, during the first phase, is to learn how to obtain feedback on how prospective and real customers are experiencing the product."
       ]
     }
+  },{
+  "id": 6,
+  "question": "Since you have been found guilty of ______ (deliver) poor results for six months at a stretch, we are issuing this warning letter to warn you.",
+  "options": {
+    "A": "deliver",
+    "B": "delivering",
+    "C": "delivered",
+    "D": "to deliver"
   },
-  {
-    "id": 6,
-    "question": "In many low and middle income countries, health average has improved dramatically in the last two but health outcomes may not.",
-    "options": {
-      "A": "In many low and middle income countries",
-      "B": "health average has improved dramatically",
-      "C": "in the last two",
-      "D": "but health outcomes may not"
-    },
-    "correctOption": "B",
-    "solution": {
-      "incorrectPart": "health average has improved dramatically",
-      "correctPart": "health has improved dramatically on average",
-      "explanation": [
-        "Rule 1: 'Average' can function as a noun or adjective, but its position must make the intended meaning clear.",
-        "Rule 2: 'On average' is the standard expression used to describe an overall trend.",
-        "Application: Replace 'health average' with 'health ... on average'. The phrase 'in the last two' also appears incomplete without a time unit.",
-        "Correct sentence: In many low- and middle-income countries, health has improved dramatically on average in the last two decades, but health outcomes may not have improved."
-      ]
-    }
-  },
+  "correctOption": "B",
+  "solution": {
+    "incorrectPart": "guilty of deliver",
+    "correctPart": "guilty of delivering",
+    "explanation": [
+      "Rule 1: A preposition is followed by a noun or a gerund when expressing an action.",
+      "Rule 2: 'Of' is a preposition, so the verb following it takes the -ing form.",
+      "Application: Change 'deliver' to 'delivering'.",
+      "Correct sentence: Since you have been found guilty of delivering poor results for six months at a stretch, we are issuing this warning letter to warn you."
+    ]
+  }
+},
   {
     "id": 7,
     "question": "Excited about his newly earned powers, Midas started touching all kinds of things, ______ each item into pure gold.",
