@@ -1,0 +1,214 @@
+
+[
+  {
+    "id": 1,
+    "question": "In response to your query, the document that ______ our country's sustainability initiatives has been attached for your consideration.",
+    "options": {
+      "A": "explain",
+      "B": "explains",
+      "C": "explained",
+      "D": "explaining"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "the document that explain",
+      "correctPart": "the document that explains",
+      "explanation": [
+        "Rule 1: A verb must agree with its subject in number.",
+        "Rule 2: The subject is 'document', which is singular.",
+        "Application: The singular subject takes 'explains', not 'explain'.",
+        "Correct sentence: In response to your query, the document that explains our country's sustainability initiatives has been attached for your consideration."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "The uniquely flavoured dish was interestingly enough to captivate my taste buds.",
+    "options": {
+      "A": "The uniquely flavoured dish",
+      "B": "was interestingly enough",
+      "C": "to captivate my taste buds",
+      "D": "No error"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "was interestingly enough",
+      "correctPart": "was interesting enough",
+      "explanation": [
+        "Rule 1: Adjectives describe nouns, while adverbs generally modify verbs, adjectives, or other adverbs.",
+        "Rule 2: The word 'enough' follows the adjective it modifies.",
+        "Application: 'Interesting' is the adjective needed to describe the dish. 'Interestingly' is an adverb and is incorrect in this construction.",
+        "Correct sentence: The uniquely flavoured dish was interesting enough to captivate my taste buds."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "The revised meeting agenda is attached and _______ needs to be to all participants the meeting.",
+    "options": {
+      "A": "this",
+      "B": "those",
+      "C": "it",
+      "D": "No correction required"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "The revised meeting agenda is attached and (this / those / it) needs to be to all participants the meeting.",
+      "correctPart": "The revised meeting agenda is attached, and it needs to be sent to all participants of the meeting.",
+      "explanation": [
+        "Rule 1: A singular noun can be replaced by the singular pronoun 'it'.",
+        "Rule 2: 'Agenda' is singular, so 'it' is the appropriate pronoun.",
+        "Rule 3: The sentence also requires 'sent' after 'to be' and 'of the meeting' for grammatical clarity.",
+        "Application: Use 'it' to refer to the agenda and complete the passive construction with 'sent'.",
+        "Correct sentence: The revised meeting agenda is attached, and it needs to be sent to all participants of the meeting."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "We offers a 30-day return policy on all unopened products purchased from our websites.",
+    "options": {
+      "A": "We offers",
+      "B": "a 30-day return policy",
+      "C": "on all unopened products",
+      "D": "No error"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "We offers",
+      "correctPart": "We offer",
+      "explanation": [
+        "Rule 1: The pronoun 'we' takes the base form of the verb in the simple present tense.",
+        "Rule 2: The verb 'offers' is used with third-person singular subjects such as he, she, or it.",
+        "Application: Replace 'offers' with 'offer' because the subject is 'we'.",
+        "Correct sentence: We offer a 30-day return policy on all unopened products purchased from our websites."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "The campaign's goal is to increase physical activity among the younger.",
+    "options": {
+      "A": "The campaign's goal",
+      "B": "is to increase physical activity",
+      "C": "among the younger",
+      "D": "No error"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "among the younger",
+      "correctPart": "among young people",
+      "explanation": [
+        "Rule 1: 'Younger' is a comparative adjective and generally requires a comparison or a suitable noun phrase.",
+        "Rule 2: When referring to young people as a group, use 'young people' or 'the younger generation'.",
+        "Application: Replace 'the younger' with 'young people' to make the sentence natural and grammatically clear.",
+        "Correct sentence: The campaign's goal is to increase physical activity among young people."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "The internship at the tech startup had me excited about ______ the potential of innovation and entrepreneurial spirit.",
+    "options": {
+      "A": "feeling",
+      "B": "felt",
+      "C": "to feel",
+      "D": "feels"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "excited about feeling the potential",
+      "correctPart": "excited about feeling the potential",
+      "explanation": [
+        "Rule 1: The preposition 'about' is followed by a noun or a gerund when an action is expressed.",
+        "Rule 2: A gerund is the -ing form of a verb used as a noun.",
+        "Application: 'Feeling' is the only option that correctly follows the preposition 'about'.",
+        "Correct sentence: The internship at the tech startup had me excited about feeling the potential of innovation and entrepreneurial spirit."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "Our school _____ first place in the regional science fair.",
+    "options": {
+      "A": "awarded",
+      "B": "was awarded",
+      "C": "had awarded",
+      "D": "has been awarded"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Our school awarded first place",
+      "correctPart": "Our school was awarded first place",
+      "explanation": [
+        "Rule 1: The passive voice is used when the subject receives an action.",
+        "Rule 2: The simple past passive is formed using was or were + past participle.",
+        "Application: The school receives the award, so 'was awarded' is the appropriate construction.",
+        "Correct sentence: Our school was awarded first place in the regional science fair."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "The morning dew captures your essence, The flowers and grass ______ your colour, The Sunrise embraces your arrival, As the dawn welcomes a new day.",
+    "options": {
+      "A": "reflect",
+      "B": "reflects",
+      "C": "reflected",
+      "D": "shall reflect"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "The flowers and grass reflects your colour",
+      "correctPart": "The flowers and grass reflect your colour",
+      "explanation": [
+        "Rule 1: A compound subject joined by 'and' generally takes a plural verb.",
+        "Rule 2: Plural subjects use the base form of the verb in the simple present tense.",
+        "Application: 'The flowers and grass' is a compound subject, so 'reflect' is appropriate.",
+        "Correct sentence: The flowers and grass reflect your colour."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "The public health campaign aimed in increase awareness of the risks associated with underage drinking.",
+    "options": {
+      "A": "The public health campaign",
+      "B": "aimed in increase awareness",
+      "C": "of the risks associated",
+      "D": "with underage drinking"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "aimed in increase awareness",
+      "correctPart": "aimed to increase awareness",
+      "explanation": [
+        "Rule 1: The verb 'aim' is commonly followed by a to-infinitive when expressing a goal.",
+        "Rule 2: The correct structure is 'aimed to + base form of the verb'.",
+        "Application: Replace 'in increase' with 'to increase'.",
+        "Correct sentence: The public health campaign aimed to increase awareness of the risks associated with underage drinking."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "It was agreed that the teacher would ______ the science fair for the students of grade 8.",
+    "options": {
+      "A": "organise",
+      "B": "organises",
+      "C": "organised",
+      "D": "organising"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "would organised",
+      "correctPart": "would organise",
+      "explanation": [
+        "Rule 1: Modal verbs such as 'would' are followed by the base form of the main verb.",
+        "Rule 2: The base form of 'organise' is 'organise'.",
+        "Application: Use 'organise' after 'would', without adding -s, -ed, or -ing.",
+        "Correct sentence: It was agreed that the teacher would organise the science fair for the students of grade 8."
+      ]
+    }
+  }
+]
