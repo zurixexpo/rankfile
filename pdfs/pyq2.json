@@ -1,0 +1,341 @@
+
+[
+  {
+    "id": 1,
+    "question": "The soup recipe didn't turned out as it was lacking in flavour.",
+    "options": {
+      "A": "didn't turned out",
+      "B": "as it was lacking",
+      "C": "in flavour",
+      "D": "No error"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "didn't turned out",
+      "correctPart": "didn't turn out",
+      "explanation": [
+        "Rule 1: The auxiliary verb 'did' is followed by the base form of the main verb.",
+        "Rule 2: The base form of 'turned' is 'turn'.",
+        "Application: Replace 'turned' with 'turn' after 'didn't'.",
+        "Correct sentence: The soup recipe didn't turn out as it was lacking in flavour."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "The quarterly performance report is and ______ (these / that / it) requires immediate attention from the management team.",
+    "options": {
+      "A": "these",
+      "B": "that",
+      "C": "it",
+      "D": "No correction required"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "The quarterly performance report is and these requires",
+      "correctPart": "The quarterly performance report is attached, and it requires",
+      "explanation": [
+        "Rule 1: A singular noun is generally replaced by a singular pronoun.",
+        "Rule 2: 'Report' is singular, so 'it' is the appropriate pronoun.",
+        "Application: Use 'it' to refer to the quarterly performance report. The phrase 'is attached' is a natural completion of the sentence.",
+        "Correct sentence: The quarterly performance report is attached, and it requires immediate attention from the management team."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "We specializes in arranging bespoke tours to exotic locations around the world.",
+    "options": {
+      "A": "We specializes",
+      "B": "in arranging bespoke tours",
+      "C": "to exotic locations",
+      "D": "No error"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "We specializes",
+      "correctPart": "We specialize",
+      "explanation": [
+        "Rule 1: The pronoun 'we' takes the base form of the verb in the simple present tense.",
+        "Rule 2: The verb 'specializes' is used with third-person singular subjects.",
+        "Application: Replace 'specializes' with 'specialize' because the subject is 'we'.",
+        "Correct sentence: We specialize in arranging bespoke tours to exotic locations around the world."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "She wants to learns how to play the piano.",
+    "options": {
+      "A": "She wants",
+      "B": "to learns",
+      "C": "how to play the piano",
+      "D": "No error"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "to learns",
+      "correctPart": "to learn",
+      "explanation": [
+        "Rule 1: The infinitive consists of 'to' followed by the base form of a verb.",
+        "Rule 2: The base form of 'learns' is 'learn'.",
+        "Application: Replace 'learns' with 'learn' after 'to'.",
+        "Correct sentence: She wants to learn how to play the piano."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "The management felt that the company ______ include corporate social responsibility as part of its mission statement and work for the betterment of society.",
+    "options": {
+      "A": "must",
+      "B": "ought",
+      "C": "need",
+      "D": "might"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "the company ought include",
+      "correctPart": "the company must include",
+      "explanation": [
+        "Rule 1: Modal verbs are followed by the base form of the main verb.",
+        "Rule 2: 'Must include' expresses a strong obligation or necessity. 'Ought' normally requires 'to' before the main verb.",
+        "Application: 'Must include' is the best fit among the given options for expressing the company's responsibility.",
+        "Correct sentence: The management felt that the company must include corporate social responsibility as part of its mission statement and work for the betterment of society."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "The residents ______ eagerly for the young ones to visit them every Sunday and bring cheer to their lonely lives.",
+    "options": {
+      "A": "has",
+      "B": "has been waiting",
+      "C": "were waiting",
+      "D": "waited"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "The residents has been waiting",
+      "correctPart": "The residents were waiting",
+      "explanation": [
+        "Rule 1: A plural subject takes a plural verb.",
+        "Rule 2: 'Residents' is plural, so 'has' is incorrect.",
+        "Rule 3: 'Were waiting' is the past continuous form and describes an ongoing action in the past.",
+        "Application: 'Were waiting' is the best available option for the plural subject.",
+        "Correct sentence: The residents were waiting eagerly for the young ones to visit them every Sunday and bring cheer to their lonely lives."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "The autumn cradles your thoughts, The falling leaves ______ your melancholy, The Sunset paints your mood, As the evening ushers in the night.",
+    "options": {
+      "A": "share",
+      "B": "shares",
+      "C": "shared",
+      "D": "shall share"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "The falling leaves shares your melancholy",
+      "correctPart": "The falling leaves share your melancholy",
+      "explanation": [
+        "Rule 1: A plural subject takes the base form of the verb in the simple present tense.",
+        "Rule 2: 'Leaves' is plural, so 'shares' is incorrect.",
+        "Application: Use 'share' to agree with the plural subject 'the falling leaves'.",
+        "Correct sentence: The falling leaves share your melancholy."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "The research explores the correlation of physical activity and mental health.",
+    "options": {
+      "A": "The research explores",
+      "B": "the correlation of",
+      "C": "physical activity and mental health",
+      "D": "No error"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "the correlation of physical activity and mental health",
+      "correctPart": "the correlation between physical activity and mental health",
+      "explanation": [
+        "Rule 1: The standard expression for describing a relationship involving two variables is 'correlation between A and B'.",
+        "Rule 2: 'Correlation of' can occur in other contexts, but 'correlation between' is the natural construction here.",
+        "Application: Replace 'of' with 'between'.",
+        "Correct sentence: The research explores the correlation between physical activity and mental health."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "You will find in this email a brochure that ______ (present) the various tourist attractions in our city, aimed at boosting local tourism.",
+    "options": {
+      "A": "present",
+      "B": "presents",
+      "C": "presented",
+      "D": "presenting"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "a brochure that present",
+      "correctPart": "a brochure that presents",
+      "explanation": [
+        "Rule 1: A singular subject takes a singular verb in the simple present tense.",
+        "Rule 2: The relative pronoun 'that' refers to 'brochure', which is singular.",
+        "Application: Add -s to the verb and use 'presents'.",
+        "Correct sentence: You will find in this email a brochure that presents the various tourist attractions in our city, aimed at boosting local tourism."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "She don't like chocolate ice-cream.",
+    "options": {
+      "A": "She don't",
+      "B": "like chocolate",
+      "C": "ice-cream",
+      "D": "No error"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "She don't",
+      "correctPart": "She doesn't",
+      "explanation": [
+        "Rule 1: Third-person singular subjects such as 'he', 'she', and 'it' take 'doesn't' in negative simple present sentences.",
+        "Rule 2: After 'doesn't', the main verb remains in its base form.",
+        "Application: Replace 'don't' with 'doesn't'.",
+        "Correct sentence: She doesn't like chocolate ice-cream."
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "question": "Attached are the departmental performance reports and ______ (it / these / them) should be reviewed by each department head.",
+    "options": {
+      "A": "it",
+      "B": "these",
+      "C": "them",
+      "D": "No correction required"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "the departmental performance reports and it should be reviewed",
+      "correctPart": "the departmental performance reports, and these should be reviewed",
+      "explanation": [
+        "Rule 1: A plural noun takes a plural pronoun when the pronoun refers to that noun.",
+        "Rule 2: 'Reports' is plural, so 'it' is incorrect.",
+        "Rule 3: 'These' can function as the subject of the clause, while 'them' is an object pronoun.",
+        "Application: Use 'these' as the subject of 'should be reviewed'.",
+        "Correct sentence: Attached are the departmental performance reports, and these should be reviewed by each department head."
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "question": "The 2020 research study pay attention to the relationship between high levels of stress and employee productivity.",
+    "options": {
+      "A": "The 2020 research study",
+      "B": "pay attention",
+      "C": "to the relationship between",
+      "D": "high levels of stress and employee productivity"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "research study pay attention",
+      "correctPart": "research study paid attention",
+      "explanation": [
+        "Rule 1: A sentence describing a completed study in 2020 generally requires the simple past tense.",
+        "Rule 2: The past tense of 'pay' is 'paid'.",
+        "Application: Replace 'pay' with 'paid' to match the past time reference.",
+        "Correct sentence: The 2020 research study paid attention to the relationship between high levels of stress and employee productivity."
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "question": "The campaign encourages parents to reducing screen time for their children.",
+    "options": {
+      "A": "The campaign encourages",
+      "B": "parents to reducing",
+      "C": "screen time",
+      "D": "for their children"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "parents to reducing",
+      "correctPart": "parents to reduce",
+      "explanation": [
+        "Rule 1: The verb 'encourage' can be followed by an object and a to-infinitive.",
+        "Rule 2: A to-infinitive uses 'to' followed by the base form of the verb.",
+        "Application: Replace 'reducing' with 'reduce'.",
+        "Correct sentence: The campaign encourages parents to reduce screen time for their children."
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "question": "The chance to mentor a group of underprivileged students helped me ______ the educational disparities in our society.",
+    "options": {
+      "A": "understanding",
+      "B": "understand",
+      "C": "to understand",
+      "D": "may understand"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "helped me understanding",
+      "correctPart": "helped me understand",
+      "explanation": [
+        "Rule 1: The verb 'help' can be followed by an object and the base form of a verb.",
+        "Rule 2: The structure 'helped me understand' is grammatically correct. 'Helped me to understand' is also acceptable in standard English.",
+        "Application: Among the given options, 'understand' is the best answer.",
+        "Correct sentence: The chance to mentor a group of underprivileged students helped me understand the educational disparities in our society."
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "question": "In a miraculous turn of events, the Sunview School hockey team ______ the championship trophy.",
+    "options": {
+      "A": "has been lifting",
+      "B": "had lifted",
+      "C": "lifted",
+      "D": "will lift"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "the Sunview School hockey team has been lifting the championship trophy",
+      "correctPart": "the Sunview School hockey team lifted the championship trophy",
+      "explanation": [
+        "Rule 1: The simple past tense describes a completed action in the past.",
+        "Rule 2: 'In a miraculous turn of events' suggests that the team achieved a particular result.",
+        "Application: 'Lifted' is the most suitable option for describing the completed achievement.",
+        "Correct sentence: In a miraculous turn of events, the Sunview School hockey team lifted the championship trophy."
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "question": "In the night, the stars ______ your dreams, The moonlight guides your course, The breeze whispers your name, Leading you towards a new dawn.",
+    "options": {
+      "A": "shines",
+      "B": "shine",
+      "C": "shone",
+      "D": "shining"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "the stars shines your dreams",
+      "correctPart": "the stars shine your dreams",
+      "explanation": [
+        "Rule 1: A plural subject takes the base form of the verb in the simple present tense.",
+        "Rule 2: 'Stars' is plural, so 'shines' is incorrect.",
+        "Application: Use 'shine' to agree with the plural subject 'the stars' and maintain the present tense used in the poem.",
+        "Correct sentence: In the night, the stars shine your dreams, the moonlight guides your course, the breeze whispers your name, leading you towards a new dawn."
+      ]
+    }
+  }
+]
