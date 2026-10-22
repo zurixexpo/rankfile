@@ -23,7 +23,7 @@
   },
   {
     "id": 2,
-    "question": "Therefore, I request you to please consider this request of ______ (construct) a park in our society so that each and every person can benefit and we can enjoy a healthy environment amidst the concrete jungle.",
+    "question": "Therefore, I request you to please consider this request of ______ a park in our society so that each and every person can benefit and we can enjoy a healthy environment amidst the concrete jungle.",
     "options": {
       "A": "construct",
       "B": "constructing",
@@ -65,7 +65,7 @@
   },
   {
     "id": 4,
-    "question": "In order to enable the stakeholders to ______ (access / assess / accent) all the applicable circulars at one place, the provisions of the circulars issued till January 6, 2024, are incorporated in this master circular.",
+    "question": "In order to enable the stakeholders to ______ all the applicable circulars at one place, the provisions of the circulars issued till January 6, 2024, are incorporated in this master circular.",
     "options": {
       "A": "access",
       "B": "assess",
@@ -86,9 +86,9 @@
   },
   {
     "id": 5,
-    "question": "A founded s goal, during the first phase, is to learn how to obtain feedback on low prospective and real customers are experience the product.",
+    "question": "A founded's goal, during the first phase, is to learn how to obtain feedback on low prospective and real customers are experiencing the product.",
     "options": {
-      "A": "A founded s goal",
+      "A": "A founded's goal",
       "B": "during the first phase",
       "C": "to learn how to obtain feedback",
       "D": "No error"
