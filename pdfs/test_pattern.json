@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "question": "Yoga should help lower blood pressure, cholesterol, and blood sugar, all of whom can harm your heart and blood vessels.",
+    "options": {
+      "A": "Yoga should help lower blood pressure,",
+      "B": "cholesterol,",
+      "C": "and blood sugar,",
+      "D": "all of whom can harm your heart and blood vessels."
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "all of whom can harm your heart and blood vessels.",
+      "correctPart": "all of which can harm your heart and blood vessels.",
+      "explanation": [
+        "Which is used to refer to things or non-human nouns.",
+        "Whom is used to refer to people as the object of a verb or preposition.",
+        "Blood pressure, cholesterol, and blood sugar are things, not people.",
+        "Correct sentence: Yoga should help lower blood pressure, cholesterol, and blood sugar, all of which can harm your heart and blood vessels."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "A founder's goal, during the first phase, is to learn how to obtain feedback on how prospective and real customers are experience the product.",
+    "options": {
+      "A": "A founder's goal, during the first",
+      "B": "phase, is to learn how to",
+      "C": "obtain feedback on how prospective and",
+      "D": "real customers are experience the product."
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "real customers are experience the product.",
+      "correctPart": "real customers are experiencing the product.",
+      "explanation": [
+        "The auxiliary verb are must be followed by the present participle (verb + ing) to form the present continuous tense.",
+        "Alternatively, experience can be used in the simple present tense without \"are\".",
+        "Correct sentence: A founder's goal, during the first phase, is to learn how to obtain feedback on how prospective and real customers are experiencing the product."
+      ]
+    }
+  }
+]
