@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "question": "Although Rahul has been preparing for the examination since three months, he still finds some topics difficult to understand.",
+    "options": {
+      "A": "Although Rahul has been preparing",
+      "B": "for the examination since three",
+      "C": "months, he still finds some",
+      "D": "topics difficult to understand."
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "for the examination since three",
+      "correctPart": "for the examination for three",
+      "explanation": [
+        "The word since is used for a starting point, whereas for is used to indicate a period of time.",
+        "Rule: Since + Point of time; For + Period of time.",
+        "Correct sentence: Although Rahul has been preparing for the examination for three months, he still finds some topics difficult to understand."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "When I reached the railway station, the train already left the platform and the passengers were waiting for the next one.",
+    "options": {
+      "A": "When I reached the railway station,",
+      "B": "the train already left the",
+      "C": "platform and the passengers were",
+      "D": "waiting for the next one."
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "the train already left the",
+      "correctPart": "the train had already left the",
+      "explanation": [
+        "Past Perfect is used for an action completed before another action in the past.",
+        "Correct sentence: When I reached the railway station, the train had already left the platform and the passengers were waiting for the next one."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "My father usually goes for a morning walk, but today he is going for a walk at the evening.",
+    "options": {
+      "A": "My father usually goes for",
+      "B": "a morning walk, but today",
+      "C": "he is going for a",
+      "D": "walk at the evening."
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "he is going for a",
+      "correctPart": "he went for a",
+      "explanation": [
+        "The word today alone does not require past tense. However, in this sentence, the intended meaning is a completed unusual action earlier today.",
+        "Simple Past is used for completed actions in the past.",
+        "Correct sentence: My father usually goes for a morning walk, but today he went for a walk in the evening."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "The teacher explained that the Earth revolved around the Sun and all the planets moved around it.",
+    "options": {
+      "A": "The teacher explained that the",
+      "B": "Earth revolved around the",
+      "C": "Sun and all the",
+      "D": "planets moved around it."
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Earth revolved around the",
+      "correctPart": "Earth revolves around the",
+      "explanation": [
+        "Universal truths are expressed in the Simple Present Tense, even in reported speech.",
+        "Correct sentence: The teacher explained that the Earth revolves around the Sun and all the planets move around it."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "I am living in this town for the last ten years, and I know almost every street here.",
+    "options": {
+      "A": "I am living in this",
+      "B": "town for the last ten",
+      "C": "years, and I know",
+      "D": "almost every street here."
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "I am living in this",
+      "correctPart": "I have been living in this",
+      "explanation": [
+        "Present Perfect Continuous is used with for/since for continuing actions.",
+        "Correct sentence: I have been living in this town for the last ten years, and I know almost every street here."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "She did not attended the meeting yesterday because she was suffering from a severe headache.",
+    "options": {
+      "A": "She did not attended",
+      "B": "the meeting yesterday because",
+      "C": "she was suffering from",
+      "D": "a severe headache."
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "She did not attended",
+      "correctPart": "She did not attend",
+      "explanation": [
+        "The auxiliary did already indicates the past tense, so the main verb must remain in its base form.",
+        "Rule: Did + V1.",
+        "Correct sentence: She did not attend the meeting yesterday because she was suffering from a severe headache."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "By the time the rescue team arrived at the village, the floodwater destroyed several houses and damaged the roads.",
+    "options": {
+      "A": "By the time the rescue",
+      "B": "team arrived at the village,",
+      "C": "the floodwater destroyed several houses",
+      "D": "and damaged the roads."
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "the floodwater destroyed several houses",
+      "correctPart": "the floodwater had destroyed several houses",
+      "explanation": [
+        "The destruction occurred before the rescue team arrived.",
+        "Past Perfect is used for the earlier of two past actions.",
+        "Correct sentence: By the time the rescue team arrived at the village, the floodwater had destroyed several houses and damaged the roads."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "The students were playing in the playground when suddenly it starts raining heavily and everyone rushed towards the classrooms.",
+    "options": {
+      "A": "The students were playing in",
+      "B": "the playground when suddenly it",
+      "C": "starts raining heavily and everyone",
+      "D": "rushed towards the classrooms."
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "starts raining heavily and everyone",
+      "correctPart": "started raining heavily and everyone",
+      "explanation": [
+        "Maintain tense consistency when describing events occurring in the same past-time context.",
+        "Correct sentence: The students were playing in the playground when suddenly it started raining heavily and everyone rushed towards the classrooms."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "She has submitted her assignment yesterday, but the teacher has not checked it yet.",
+    "options": {
+      "A": "She has submitted her",
+      "B": "assignment yesterday, but the",
+      "C": "teacher has not",
+      "D": "checked it yet."
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "She has submitted her",
+      "correctPart": "She submitted her",
+      "explanation": [
+        "The word yesterday indicates a definite completed time in the past.",
+        "Rule: Present Perfect is not normally used with definite past-time expressions such as yesterday, last week and ago.",
+        "Correct sentence: She submitted her assignment yesterday, but the teacher has not checked it yet."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "While the children were watching television, their mother cooks dinner in the kitchen.",
+    "options": {
+      "A": "While the children were",
+      "B": "watching television, their",
+      "C": "mother cooks dinner",
+      "D": "in the kitchen."
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "mother cooks dinner",
+      "correctPart": "mother was cooking dinner",
+      "explanation": [
+        "Both actions were happening simultaneously in the past.",
+        "Past Continuous can be used for two simultaneous ongoing past actions",
+        "Correct sentence: While the children were watching television, their mother was cooking dinner in the kitchen."
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "question": "I have completed my homework before my father returned from the office last night.",
+    "options": {
+      "A": "I have completed my",
+      "B": "homework before my father",
+      "C": "returned from the",
+      "D": "office last night."
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "I have completed my",
+      "correctPart": "I had completed my",
+      "explanation": [
+        "Past Perfect is used for an action completed before a particular past event",
+        "Correct sentence: I had completed my homework before my father returned from the office last night."
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "question": "The old man walks for nearly two hours when he suddenly felt dizzy and sat under a tree.",
+    "options": {
+      "A": "The old man walks for",
+      "B": "nearly two hours when he",
+      "C": "suddenly felt dizzy and",
+      "D": "sat under a tree."
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "The old man walks for",
+      "correctPart": "The old man had been walking for",
+      "explanation": [
+        "Past Perfect Continuous is used for an ongoing action continuing up to a point in the past.",
+        "The walking continued for some time before another past event interrupted it.",
+        "Correct sentence: The old man had been walking for nearly two hours when he suddenly felt dizzy and sat under a tree."
+      ]
+    }
+  }
+]
