@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "question": "The Road to Success Lies Along The path That's________ Recycling Bins!",
+    "options": {
+      "A": "lined with",
+      "B": "lined to",
+      "C": "line with",
+      "D": "lining with"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "lined with",
+      "correctPart": "lined with",
+      "explanation": [
+        "The phrase 'lined with' is a participial adjective meaning 'having a line of things along the edge or surface'.",
+        "Correct sentence: The Road to Success Lies Along The path That's lined with Recycling Bins!"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "Our courses offer you concise training on individual growth and personal developments.",
+    "options": {
+      "A": "Our courses offer",
+      "B": "you concise training",
+      "C": "on individual growth",
+      "D": "and personal developments."
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "and personal developments.",
+      "correctPart": "and personal development.",
+      "explanation": [
+        "Development is used as an uncountable noun when referring to the process of personal growth or improvement.",
+        "Therefore, it should not take a plural -s in this context.",
+        "Correct sentence: Our courses offer you concise training on individual growth and personal development."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "We hope that you continue to work with the same zeal and keep ________ us with such remarkable performances. We thank you and wish you good luck for your upcoming projects. Regards.",
+    "options": {
+      "A": "surprise",
+      "B": "surprising",
+      "C": "to surprise",
+      "D": "surprised"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "surprising",
+      "correctPart": "surprising",
+      "explanation": [
+        "The verb 'keep' can be followed by a present participle (verb + ing) to mean 'continue doing something'.",
+        "The base form 'surprise' cannot directly follow 'keep' in this construction.",
+        "Correct sentence: We hope that you continue to work with the same zeal and keep surprising us with such remarkable performances."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "A flu vaccine's most common side effects are soreness, redness and swelling at the injection site. These ought to begins six to twelve hours after vaccination and can last up to two days.",
+    "options": {
+      "A": "A flu vaccine's most common side effects are soreness,",
+      "B": "redness and swelling at the injection site. These ought to",
+      "C": "begins six to twelve hours after",
+      "D": "vaccination and can last up to two days."
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "begins six to twelve hours after",
+      "correctPart": "begin six to twelve hours after",
+      "explanation": [
+        "Ought to + V1 (base form of verb).",
+        "Correct sentence: A flu vaccine's most common side effects are soreness, redness and swelling at the injection site. These ought to begins six to twelve hours after vaccination and can last up to two days."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "It is our endeavour to settle your maturity claim on or before the due date. The Servicing Branch ________ sends maturity claim intimations two months in advance.",
+    "options": {
+      "A": "likely",
+      "B": "usually",
+      "C": "occasionally",
+      "D": "rarely"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "usually",
+      "correctPart": "usually",
+      "explanation": [
+        "Usually' expresses a habitual or standard practice.",
+        "The sentence describes the normal practice of the Servicing Branch sending maturity claim intimations two months in advance.",
+        "Correct sentence: The Servicing Branch usually sends maturity claim intimations two months in advance."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "Please note: Early and active communication is required, as late notification may result in a delay redressal of your request.",
+    "options": {
+      "A": "Please note: Early and active",
+      "B": "communication is required, as late",
+      "C": "notification may result in a",
+      "D": "delay redressal of your request."
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "delay redressal of your request.",
+      "correctPart": "delayed redressal of your request.",
+      "explanation": [
+        "Use the past participle delayed as an adjective to describe the noun redressal.",
+        "Correct sentence: Please note: Early and active communication is required, as late notification may result in a delay redressal of your request."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "Excess pumping of groundwater leads to a decrease in groundwater levels, but if it continue, it can exhaust the resource.",
+    "options": {
+      "A": "Excess pumping of groundwater leads",
+      "B": "to a decrease in groundwater",
+      "C": "levels, but if it continue,",
+      "D": "it can exhaust the resource."
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "levels, but if it continue,",
+      "correctPart": "levels, but if it continues,",
+      "explanation": [
+        "A singular subject takes a singular verb (V1 + s/es) in the simple present tense.",
+        "Correct sentence: Excess pumping of groundwater leads to a decrease in groundwater levels, but if it continues, it can exhaust the resource."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "Finally, she went to the best doctor in town. She spent months on ________ her until she was finally cured.",
+    "options": {
+      "A": "treat",
+      "B": "treating",
+      "C": "treated",
+      "D": "to treat"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "treating",
+      "correctPart": "treating",
+      "explanation": [
+        "A preposition such as 'on' is followed by a noun, pronoun, or gerund (verb + ing).",
+        "Correct sentence: She spent months on treating her until she was finally cured."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "There's no place like Earth to live and work. So let's ________ a better place.",
+    "options": {
+      "A": "Making It",
+      "B": "Make It",
+      "C": "Creates It",
+      "D": "Create It"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "Make It",
+      "correctPart": "Make It",
+      "explanation": [
+        "Let's' is a contraction of 'let us', and 'let' is followed by the base form of a verb.",
+        "Correct sentence: So let's make it a better place."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "The information contained herein is subject to change without notice. Reproducing, adaptation or translation without prior written permission is prohibited.",
+    "options": {
+      "A": "The information contained herein is",
+      "B": "subject to change without notice.",
+      "C": "Reproducing, adaptation or translation without",
+      "D": "prior written permission is prohibited."
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "Reproducing, adaptation or translation without",
+      "correctPart": "Reprodution, adaptation or translation without",
+      "explanation": [
+        "Grammar rule: Parallel Structure,  The items in a series should follow the same grammatical structure",
+        "Correct sentence: The information contained herein is subject to change without notice. Reproduction, adaptation or translation without prior written permission is prohibited."
+      ]
+    }
+  }
+]
