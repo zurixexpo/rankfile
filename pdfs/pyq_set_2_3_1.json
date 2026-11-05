@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "question": "Enclosed is the report that_____ the study conducted on the impact of climate change on crop yield in the region.",
+    "options": {
+      "A": "summarize",
+      "B": "summarizes",
+      "C": "summarized",
+      "D": "summarizing"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "summarizes",
+      "correctPart": "summarizes",
+      "explanation": [
+        "A relative pronoun such as 'that' takes a verb that agrees with its antecedent.",
+        "The antecedent is 'the report', which is singular.",
+        "Correct sentence: Enclosed is the report that summarizes the study conducted on the impact of climate change on crop yield in the region."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "The cake recipe was to sweet for my liking, but the texture was perfect.",
+    "options": {
+      "A": "The cake recipe was",
+      "B": "to sweet for my",
+      "C": "liking, but the",
+      "D": "texture was perfect."
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "to sweet for my",
+      "correctPart": "too sweet for my",
+      "explanation": [
+        "To: Preposition or part of an infinitive (to go, to eat).",
+        "Too: Means excessively or more than necessary.",
+        "Correct sentence: The cake recipe was too sweet for my liking, but the texture was perfect."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "Please refer to the attached conference schedule and ______ among all attendees for their reference.",
+    "options": {
+      "A": "it should circulated",
+      "B": "it should be circulated",
+      "C": "these should be circulated",
+      "D": "them should be circulated"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "it should be circulated",
+      "correctPart": "it should be circulated",
+      "explanation": [
+        "The pronoun must agree with its antecedent. 'Schedule' is singular, so 'it' is correct.",
+        "A passive construction after 'should' requires 'be' + past participle.",
+        "Application: 'Should circulated' must be changed to 'should be circulated'.",
+        "Correct sentence: Please refer to the attached conference schedule and it should be circulated among all attendees for their reference."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "The campaign's focus is on reduce sugar intake among children by promoting healthier snacks.",
+    "options": {
+      "A": "The campaign's focus is",
+      "B": "on reduce sugar intake",
+      "C": "among children by",
+      "D": "promoting healthier snacks."
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "on reduce sugar intake",
+      "correctPart": "on reducing sugar intake",
+      "explanation": [
+        "When a verb follows a preposition, it generally takes the -ing form (gerund).",
+        "Exam tip: Remember: Preposition + V-ing.",
+        "Correct sentence: The campaign's focus is on reducing sugar intake among children by promoting healthier snacks."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "The study examines the association among exposure to sunlight and vitamin D levels in the body.",
+    "options": {
+      "A": "The study examines the",
+      "B": "association among exposure to",
+      "C": "sunlight and vitamin D",
+      "D": "levels in the body."
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "association among exposure to",
+      "correctPart": "association between exposure to",
+      "explanation": [
+        "Between is generally used when referring to two people, things, or entities.",
+        "Among is generally used when referring to more than two.",
+        "Correct sentence: The study examines the association between exposure to sunlight and vitamin D levels in the body."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "The opportunity to volunteer at the local food bank made me_____ the challenges faced by underprivileged communities.",
+    "options": {
+      "A": "realize",
+      "B": "to realize",
+      "C": "realizeed",
+      "D": "realizing"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "realize",
+      "correctPart": "realize",
+      "explanation": [
+        "The verb 'make' in the active voice is followed by an object and a bare infinitive.",
+        "A bare infinitive is the base form of the verb without 'to'.",
+        "Correct sentence: The opportunity to volunteer at the local food bank made me realize the challenges faced by underprivileged communities."
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "Our chess team __________ the interschool chess championship.",
+    "options": {
+      "A": "has won",
+      "B": "have won",
+      "C": "has win",
+      "D": "have win"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "has won",
+      "correctPart": "has won",
+      "explanation": [
+        "A collective noun such as 'team' is generally treated as a singular unit in this context.",
+        "The present perfect tense is formed with 'has/have' + past participle.",
+        "Correct sentence: Our chess team has won the interschool chess championship."
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "The relationships Of the countriy's inflation rate and the GDP growth was analysed.",
+    "options": {
+      "A": "The relationships Of the",
+      "B": "countriy's inflation rate",
+      "C": "and the GDP",
+      "D": "growth was analysed."
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "The relationships Of the",
+      "correctPart": "The relationships between the",
+      "explanation": [
+        "When referring to the connection between two things, use relationship between, not relationship of.",
+        "Correct sentence: The relationship between the country's inflation rate and the GDP growth was analysed."
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "Each of the boys were given a prize.",
+    "options": {
+      "A": "Each of",
+      "B": "the boys",
+      "C": "were given",
+      "D": "a prize."
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "were given",
+      "correctPart": "was given",
+      "explanation": [
+        "Each of' takes a singular verb.",
+        "'Were' must be changed to 'was'.",
+        "Correct sentence: Each of the boys was given a prize."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "The teacher explained (A) / the difference among (B) / renewable and non-renewable energy sources (C) / during the science class. (D)",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "A",
+      "correctPart": "A",
+      "explanation": [
+        "Use between when referring to the relationship or difference involving two entities.",
+        "Correct sentence:  The teacher explained the difference between renewable and non-renewable energy sources during the science class."
+      ]
+    }
+  }
+]
