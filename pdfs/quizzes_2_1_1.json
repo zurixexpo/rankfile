@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "question": "In response to your query, the document that ______ our country's sustainability initiatives has been attached for your consideration.",
+    "options": {
+      "A": "explains",
+      "B": "explained",
+      "C": "had explained",
+      "D": "explain"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "explains",
+      "correctPart": "explains",
+      "explanation": [
+        "The subject is \"the document\".    Document is singular.",
+        "In the simple present tense, a singular third-person subject takes a verb ending in -s or -es.",
+        "Correct sentence: The document that explains our country's sustainability initiatives has been attached for your consideration."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "The uniquely flavoured dish was interestingly enough to captivate my taste buds.",
+    "options": {
+      "A": "The uniquely flavoured",
+      "B": "dish was interestingly",
+      "C": "enough to captivate",
+      "D": "my taste buds."
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "dish was interestingly",
+      "correctPart": "dish was interesting",
+      "explanation": [
+        "\"Interestingly\" is an adverb.",
+        "Here, we need an adjective to describe the dish.",
+        "Correct sentence: The uniquely flavoured dish was interesting enough to captivate my taste buds."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "The revised meeting agenda is attached and ______ needs to be emailed to all participants before the meeting.",
+    "options": {
+      "A": "this",
+      "B": "those",
+      "C": "it",
+      "D": "that"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "it",
+      "correctPart": "it",
+      "explanation": [
+        "\"Agenda\" is a singular noun.",
+        "\"It\" is the correct pronoun for a singular thing.",
+        "Correct sentence: and it needs to be emailed to all participants before the meeting."
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "We offers a 30-day return policy on all unopened products purchased from our websites.",
+    "options": {
+      "A": "We offers a 30-day",
+      "B": "return policy on all",
+      "C": "unopened products purchased",
+      "D": "from our websites."
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "We offers a 30-day",
+      "correctPart": "We offer a 30-day",
+      "explanation": [
+        "The subject is \"We\", so we must use \"offer\"",
+        "Correct sentence: We offer a 30-day return policy on all unopened products purchased from our websites."
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "The campaign's goal is to increase physical activity among the younger.",
+    "options": {
+      "A": "activity\t-> activities",
+      "B": "goal\t-> goals",
+      "C": "younger\t-> youth",
+      "D": "is\t-> are"
+    },
+    "correctOption": "C",
+    "solution": {
+      "incorrectPart": "younger\t-> youth",
+      "correctPart": "younger\t-> youth",
+      "explanation": [
+        "\"Younger\" is generally used as a comparative adjective.",
+        "\"Youth\" refers to young people collectively.",
+        "Correct sentence: The campaign's goal is to increase physical activity among the youth."
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "The internship at the tech startup had me ______ excited about the potential of innovation and entrepreneurial spirit.",
+    "options": {
+      "A": "feeling",
+      "B": "felt",
+      "C": "to feel",
+      "D": "feels"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "feeling",
+      "correctPart": "feeling",
+      "explanation": [
+        "The expression \"had me\" is followed by a present participle (-ing form) in this sentence",
+        "Correct sentence: feeling excited"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "Our school ______ first place in the regional science fair.",
+    "options": {
+      "A": "Is awarding",
+      "B": "was awarded",
+      "C": "has awarded",
+      "D": "has been awarded"
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "has been awarded",
+      "correctPart": "has been awarded",
+      "explanation": [
+        "The sentence uses passive voice because the school receives the award.",
+        "Subject + has/have + been + past participle (V3)",
+        "Correct sentence: has been awarded"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "The morning dew captures your essence,\n\nThe flowers and grass ______ your colour,\n\nThe Sunrise embraces your arrival,\n\nAs the dawn welcomes a new day.",
+    "options": {
+      "A": "reflect",
+      "B": "reflects",
+      "C": "reflected",
+      "D": "is reflected"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "reflect",
+      "correctPart": "reflect",
+      "explanation": [
+        "\"Flowers and grass\" is a compound subject.",
+        "A compound subject joined by \"and\" generally takes a plural verb.",
+        "Correct sentence: The flowers and grass reflect your colour"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "The public health campaign aimed in increase awareness of the risks associated with underage drinking.",
+    "options": {
+      "A": "The public health campaign",
+      "B": "aimed in increase awareness",
+      "C": "of the risks associated",
+      "D": "with underage drinking."
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "aimed in increase awareness",
+      "correctPart": "aimed to increase awareness",
+      "explanation": [
+        "Aim + to + Verb (V1)",
+        "Aim to improve.    Aim to achieve.    Aim to increase.",
+        "Correct sentence:  The public health campaign aimed to increase awareness of the risks associated with underage drinking."
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "Despite the fact that each of the participants have submitted their research papers before the deadline, the evaluation committee has not announced its final decision yet.",
+    "options": {
+      "A": "Despite the fact that each of the",
+      "B": "participants have submitted their research papers before",
+      "C": "the deadline, the evaluation committee has",
+      "D": "not announced its final decision yet."
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "participants have submitted their research papers before",
+      "correctPart": "participants has submitted their research papers before",
+      "explanation": [
+        "Even though \"participants\" is plural, the actual subject is \"each\".",
+        "\"Each\" always takes a singular verb in this construction.",
+        "Correct sentence:  Despite the fact that each of the participants has submitted their research papers before the deadline, the evaluation committee has not announced its final decision yet."
+      ]
+    }
+  }
+]
