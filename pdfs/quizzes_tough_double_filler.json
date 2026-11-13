@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "question": "Neither the quality of the products nor the delivery services ______ satisfactory, although every complaint ______ carefully by the management.",
+    "options": {
+      "A": "was / has been examined",
+      "B": "were / had been examined",
+      "C": "were / has been examined",
+      "D": "was / have been examined"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "were / had been examined",
+      "correctPart": "were / had been examined",
+      "explanation": [
+        "With neither...nor, the verb agrees with the nearer subject. The nearer subject is delivery services (plural), so use were. The examination is presented as completed before the relevant past reference point, so past perfect passive is appropriate.",
+        "Correct sentence: were / had been examined"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "question": "The teacher asked the students whether they ______ their assignments and when they ______ them.",
+    "options": {
+      "A": "have completed / will submit",
+      "B": "had completed / would submit",
+      "C": "completed / are submitting",
+      "D": "has completed / would submitted"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "had completed / would submit",
+      "correctPart": "had completed / would submit",
+      "explanation": [
+        "In reported speech, present perfect changes to past perfect, and will changes to would when the reporting verb is in the past.",
+        "Correct sentence: had completed / would submit"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "question": "By the time the rescue team ______ the village, the floodwaters ______ several houses.",
+    "options": {
+      "A": "reached / had damaged",
+      "B": "had reached / damaged",
+      "C": "reaches / have damaged",
+      "D": "was reaching / has damaged"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "reached / had damaged",
+      "correctPart": "reached / had damaged",
+      "explanation": [
+        "The rescue team reached the village after the floodwaters had already damaged the houses. The earlier action takes past perfect; the later action takes simple past.",
+        "Correct sentence: reached / had damaged"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "question": "The environmental organisation is committed ______ reducing plastic waste and ______ awareness among local communities.",
+    "options": {
+      "A": "for / create",
+      "B": "to / creating",
+      "C": "with / created",
+      "D": "at / creates"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "to / creating",
+      "correctPart": "to / creating",
+      "explanation": [
+        "Committed to uses the preposition to, followed by a gerund. The parallel phrase reducing and creating maintains the correct structure.",
+        "Correct sentence: to / creating"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "question": "Each of the candidates ______ required to submit ______ identification documents before the interview.",
+    "options": {
+      "A": "are / their",
+      "B": "is / their",
+      "C": "were / his",
+      "D": "have / them"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "is / their",
+      "correctPart": "is / their",
+      "explanation": [
+        "Each is singular and takes is. Their is an acceptable gender-neutral pronoun referring to each candidate.",
+        "Correct sentence: is / their"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "question": "The unexpected announcement left the employees ______ confused, while the manager continued ______ the situation calmly.",
+    "options": {
+      "A": "feel / explaining",
+      "B": "feeling / to explain",
+      "C": "felt / explain",
+      "D": "to feel / explained"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "feeling / to explain",
+      "correctPart": "feeling / to explain",
+      "explanation": [
+        "The expression leave someone is followed by an adjective or participle describing their state. Continued can take an infinitive here: continued to explain.",
+        "Correct sentence: feeling / to explain"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "question": "The revised guidelines ______ to all departments, but their implementation ______ monitored regularly.",
+    "options": {
+      "A": "have been circulated / must be",
+      "B": "has circulated / must have",
+      "C": "were circulating / should",
+      "D": "had circulate / is being"
+    },
+    "correctOption": "A",
+    "solution": {
+      "incorrectPart": "have been circulated / must be",
+      "correctPart": "have been circulated / must be",
+      "explanation": [
+        "Guidelines is plural, so use have been circulated in the present perfect passive. Must be monitored is the correct modal passive structure.",
+        "Correct sentence: have been circulated / must be"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "question": "The scientist presented a ______ explanation of the experiment and responded ______ to every question raised by the audience.",
+    "options": {
+      "A": "clear / confident",
+      "B": "clear / confidently",
+      "C": "clarity / confidence",
+      "D": "clearer / confident"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "clear / confidently",
+      "correctPart": "clear / confidently",
+      "explanation": [
+        "Clear is an adjective describing explanation. Confidently is an adverb describing how the scientist responded.",
+        "Correct sentence: clear / confidently"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "question": "The primary objective of the campaign is ______ public awareness, while its secondary objectives ______ promoting healthier lifestyles.",
+    "options": {
+      "A": "increasing / is",
+      "B": "to increase / include",
+      "C": "increase / includes",
+      "D": "to increase / includes"
+    },
+    "correctOption": "B",
+    "solution": {
+      "incorrectPart": "to increase / include",
+      "correctPart": "to increase / include",
+      "explanation": [
+        "The expression objective is to + verb takes an infinitive. The plural subject objectives takes the verb include.",
+        "Correct sentence: to increase / include"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "question": "The officer informed the residents that the damaged bridge ______ repaired and that traffic ______ once the inspection was completed.",
+    "options": {
+      "A": "has been / will resume",
+      "B": "have been / would resumed",
+      "C": "was / resumes",
+      "D": "had been / would resume"
+    },
+    "correctOption": "D",
+    "solution": {
+      "incorrectPart": "had been / would resume",
+      "correctPart": "had been / would resume",
+      "explanation": [
+        "In reported speech, had been repaired is past perfect passive. Will resume changes to would resume.",
+        "Correct sentence: had been / would resume"
+      ]
+    }
+  }
+]
